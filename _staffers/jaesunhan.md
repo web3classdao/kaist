@@ -7,4 +7,3 @@ linkedin: https://www.linkedin.com/in/jaesunhan/
 photo: jaesunhan.jpg
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
