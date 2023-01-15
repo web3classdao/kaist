@@ -78,7 +78,7 @@ Option 2. Web3 startup proposal
 | 6/7     | Web3 startup building & fund raising<br>Students Presentation on Web3 Projects  | Jaesun Han<br>Min Suk Kang<br>Sukyoung Ryu |
 
 
-## Class Community via Discord
+## Class Community with Discord
 
 The community goal is to learn by doing. The core of web3 is the community of like-minded people. The community is organized with class participants so that they can experience it directly. Community members are students, auditors, professors, external expert mentors, and guest speakers. 
 The community will play a role of:
@@ -89,7 +89,7 @@ The community will play a role of:
 
 It is a closed community for class participants only. In the early days, professors and expert mentors will play a major role as operators. However, We will experiment with members to create community governance. It is not a DAO, but it can be evolved into a DAO with the experiments. We strongly prohibit money transactions, investment recommendations, advertisements, and etc to the community (exclusion if caught).
 
-## Policy for auditor
+## Policy for auditors
 
 The audience is limited by the approval for an online application. Those who are interested in web3 app development and business can apply regardless of 1) whether they are students in KAIST, 2) whether they are Koreans, and 3) whether they are working in the blockchain industry. The tuition fee is 200,000 KRW(160 USD) and will be donated to KAIST Computer Science department. Auditors can participate in the class, the final project assignment, and the class community if they want. 
 - [English application](https://forms.gle/UwEn2isrcRRB42LaA)
