@@ -62,14 +62,7 @@ Option 2. Web3 startup proposal
 
 | Date        | Topics          | Instructors |
 |:-------------|:------------------|:------|
-| 3/8 (Wed)    | Course Introduction
-Blockchain/Web3 101
-Blockchain/Web3 Ethics
-Blockchain/Web3 Applications: Case Studies
- | Jaesun Han
-Min Suk Kang
-Sukyoung Ryu
-  |
+| 3/8 (Wed)    | Course Introduction<br>Blockchain/Web3 101<br>Blockchain/Web3 Ethics<br>Blockchain/Web3 Applications: Case Studies | Jaesun Han<br>Min Suk Kang<br>Sukyoung Ryu |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
