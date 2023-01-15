@@ -9,7 +9,8 @@ seo:
 ---
 
 # Building Web3 & Blockchain Applications
-## KAIST, Spring 2023 
+KAIST, Spring 2023 
+{: .fs-5 .text-grey-lt-300 }
 
 This course deals with developing Web3/Blockchain apps. It is conducted in English and is an online class. It is for KAIST students, but external listeners can also take the course through online application. As a final assignment, you need to create a Web3 app prototype or submit a Web3 business plan. It is operated as a web3-style class community, not a one-way class. Through a Discord community, students, professors, invited speakers, and expert mentors aim for an all-round class where they learn and inspire each other.
 
@@ -18,7 +19,7 @@ This course deals with developing Web3/Blockchain apps. It is conducted in Engli
 - Course Title: Building Web3 & Blockchain Applications (CS492 Special Topics in Computer Science)
 - Course Type: Major Elective
 - Credit: 3
-- Hours: 16:00 – 19:00 Wednesdays (8 March - 7 June)
+- Hours: 16:00 – 19:00 KST Wednesdays (8 March - 7 June)
 - Place: Online Zoom
 - Language: English
 - Professors: Jaesun Han, Min Suk Kang, Sukyoung Ryu
@@ -92,8 +93,8 @@ It is a closed community for class participants only. In the early days, profess
 ## Policy for auditors
 
 The audience is limited by the approval for an online application. Those who are interested in web3 app development and business can apply regardless of 1) whether they are students in KAIST, 2) whether they are Koreans, and 3) whether they are working in the blockchain industry. The tuition fee is 200,000 KRW(160 USD) and will be donated to KAIST Computer Science department. Auditors can participate in the class, the final project assignment, and the class community if they want. 
-- [English application](https://forms.gle/UwEn2isrcRRB42LaA)
-- [Korean application](https://forms.gle/CnZqTvvgizk1byNu9)
+- [English application](https://forms.gle/UwEn2isrcRRB42LaA){: target="_blank" }
+- [Korean application](https://forms.gle/CnZqTvvgizk1byNu9){: target="_blank" }
 
 
 ## Expert mentors
