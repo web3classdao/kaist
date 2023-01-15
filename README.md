@@ -64,9 +64,18 @@ Option 2. Web3 startup proposal
 |:-------------|:------------------|:------|
 | 3/8     | Course Introduction<br>Blockchain/Web3 101<br>Blockchain/Web3 Ethics<br>Blockchain/Web3 Applications: Case Studies | Jaesun Han<br>Min Suk Kang<br>Sukyoung Ryu |
 | 3/15    | Blockchain Technology 101   | Min Suk Kang  |
-| 3/22    | Blockchain Technology: Advanced<br>(L1/L2, ZKP, Sharding, etc)<br>How complicated it is to build a blockchain platform | Min Suk Kang<br>
-Sangmin Seo (Director,  Klaytn Foundation) |
+| 3/22    | Blockchain Technology: Advanced<br>(L1/L2, ZKP, Sharding, etc)<br>How complicated it is to build a blockchain platform | Min Suk Kang<br>Sangmin Seo (Director,  Klaytn Foundation) |
 | 3/29    | Blockchain/Web3 Business and Ecosystem<br>(Dapp, Wallets, DEX, IPFS, Oracles, etc)<br>Building blockchain applications: top-down view | Jaesun Han  |
+| 4/5     | Smart Contracts & Programming Solidity  | Invited Speaker (Senior Solidity programmer) |
+| 4/12    | Smart Contracts Security and Issues<br>Developing robust Web3 applications  | Brian Pak (Cofounder & CEO, Theori)  |
+| 4/19    | Mid-term exam period (no class & no exam)  | - |
+| 4/26    | Token Economy & Incentive Model<br>Governance by Community | Seungwon Jeong (Professor, KAIST)<br>Jaesun Han  |
+| 5/3     | Cryptocurrency and Stablecoin<br>DeFi (Decentralized Finance) | Jaesun Han<br>Invited Speaker (Senior DeFi expert) |
+| 5/10    | NFT & SBT<br>NFT/SBT  Applications | Jaesun Han<br>Daniel Minsu Kim (Founder & CEO,  NFTBank) |
+| 5/17    | NFT and Creator Economy<br>NFT and Metaverse | Jaesun Han<br>Sébastien Borget (Cofounder, The Sandbox)  |
+| 5/24    | GameFi and X2E Applications<br>DAO (Decentralized Autonomous Organization)  | Jaesun Han<br>Rolf Hoefer (Serial DAOist, Founding and Managing Partner, Cultur3)  |
+| 5/31    | Web3 Applications in 3C (Community-Contents-Commerce)<br>Web3 Applications for Social Problems and Global Challenges<br>AI + Blockchain | Jaesun Han<br>Invited Speaker (Founder of Web3 apps)  |
+| 6/7     | Web3 startup building & fund raising<br>Students Presentation on Web3 Projects  | Jaesun Han<br>Min Suk Kang<br>Sukyoung Ryu |
 
 
 
