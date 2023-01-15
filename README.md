@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Web3@KAIST
+title: Home
+nav_order: 1
 permalink: /:path/
 seo:
   type: Course
