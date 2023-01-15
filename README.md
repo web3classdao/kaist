@@ -62,10 +62,11 @@ Option 2. Web3 startup proposal
 
 | Date        | Topics          | Instructors |
 |:-------------|:------------------|:------|
-| 3/8 (Wed)    | Course Introduction<br>Blockchain/Web3 101<br>Blockchain/Web3 Ethics<br>Blockchain/Web3 Applications: Case Studies | Jaesun Han<br>Min Suk Kang<br>Sukyoung Ryu |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| 3/8     | Course Introduction<br>Blockchain/Web3 101<br>Blockchain/Web3 Ethics<br>Blockchain/Web3 Applications: Case Studies | Jaesun Han<br>Min Suk Kang<br>Sukyoung Ryu |
+| 3/15    | Blockchain Technology 101   | Min Suk Kang  |
+| 3/22    | Blockchain Technology: Advanced<br>(L1/L2, ZKP, Sharding, etc)<br>How complicated it is to build a blockchain platform | Min Suk Kang<br>
+Sangmin Seo (Director,  Klaytn Foundation) |
+| 3/29    | Blockchain/Web3 Business and Ecosystem<br>(Dapp, Wallets, DEX, IPFS, Oracles, etc)<br>Building blockchain applications: top-down view | Jaesun Han  |
 
 
 
