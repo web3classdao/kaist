@@ -78,33 +78,30 @@ Option 2. Web3 startup proposal
 | 6/7     | Web3 startup building & fund raising<br>Students Presentation on Web3 Projects  | Jaesun Han<br>Min Suk Kang<br>Sukyoung Ryu |
 
 
+## Class Community via Discord
 
-## Just the Class
+The community goal is to learn by doing. The core of web3 is the community of like-minded people. The community is organized with class participants so that they can experience it directly. Community members are students, auditors, professors, external expert mentors, and guest speakers. 
+The community will play a role of:
+- Class announcements and sharing related materials
+- Allowing class participants to meet online at all times.
+- Asking questions related to class content or blockchain/web3.
+- Sharing the class project and getting feedback and advice from external experts.
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+It is a closed community for class participants only. In the early days, professors and expert mentors will play a major role as operators. However, We will experiment with members to create community governance. It is not a DAO, but it can be evolved into a DAO with the experiments. We strongly prohibit money transactions, investment recommendations, advertisements, and etc to the community (exclusion if caught).
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+## Policy for auditor
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+The audience is limited by the approval for an online application. Those who are interested in web3 app development and business can apply regardless of 1) whether they are students in KAIST, 2) whether they are Koreans, and 3) whether they are working in the blockchain industry. The tuition fee is 200,000 KRW(160 USD) and will be donated to KAIST Computer Science department. Auditors can participate in the class, the final project assignment, and the class community if they want. 
+- [English application](https://forms.gle/UwEn2isrcRRB42LaA)
+- [Korean application](https://forms.gle/CnZqTvvgizk1byNu9)
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
 
-## Getting Started
+## Expert mentors
 
-Getting started with Just the Class is simple.
+We are going to invite blockchain/web3 industry experts as course mentors. Mentors will 1) answer questions related to the lecture contents or blockchain/web3, 2) give advice and guide students on their final projects, 3) share their experiences and insights (if desired) in a separate session, and 4) run the class community together. Mentors will be 1) recommended by professors or 2) approved for an online application. You can apply if you fall under either of the following two: 1) Experts in blockchain/web3, 2) Experts in vertical industries where the web3 app can be applied. All mentors should not have a one-sided mind, but a community-mind that they learn from each other.
+Mentor benefits
+- Communicate with talented people, share insights, and get inspiration.
+- Take classes without paying for the tuition fee.
+- Engage with the final projects of students (Web3 app & business)
+- Run the class community together and participate in an experiment that evolves into Web3 DAO.
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
-
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
-
-### Local development environment
-
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
