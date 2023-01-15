@@ -9,7 +9,7 @@ seo:
 ---
 
 # Building Web3 & Blockchain Applications
-## KAIST, Spring 2023 {: .text-grey-lt-300 }
+## KAIST, Spring 2023 
 
 This course deals with developing Web3/Blockchain apps. It is conducted in English and is an online class. It is for KAIST students, but external listeners can also take the course through online application. As a final assignment, you need to create a Web3 app prototype or submit a Web3 business plan. It is operated as a web3-style class community, not a one-way class. Through a Discord community, students, professors, invited speakers, and expert mentors aim for an all-round class where they learn and inspire each other.
 
