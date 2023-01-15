@@ -9,8 +9,9 @@ seo:
 ---
 
 # Building Web3 & Blockchain Applications
+## KAIST, Spring 2023 {: .text-grey-lt-300 }
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+This course deals with developing Web3/Blockchain apps. It is conducted in English and is an online class. It is for KAIST students, but external listeners can also take the course through online application. As a final assignment, you need to create a Web3 app prototype or submit a Web3 business plan. It is operated as a web3-style class community, not a one-way class. Through a Discord community, students, professors, invited speakers, and expert mentors aim for an all-round class where they learn and inspire each other.
 
 ## Course Overview
 
@@ -24,7 +25,8 @@ Just the Class is a GitHub Pages template developed for the purpose of quickly d
 
 ## Course Introduction
 
-Blockchain is a disruptive technology that can increase the transparency of information and give trust between transaction parties. By utilizing these characteristics, many trust issues in modern society can be solved. In addition, the Web3 app, which grants data ownership to users, can solve the data monopoly issue of platform companies. In this class, we will expand the scope of blockchain use, which is currently concentrated on cryptocurrency, and explore ways to solve various social problems and global challenges. Web3 apps are different from developing existing Internet applications. Since smart contract codes are written in the blockchain, transparency and trust can be improved, while security and code audit become more important. And since applications implemented as an open protocol are accessible without permission, web3 apps can be developed as if assembling Lego blocks. Web3 forms a community where all participants are the owners of the service. Therefore, designing and programming an incentive model and a governance model is a crucial task to ensure community-centered operation. The following topics will be covered:
+Blockchain is a disruptive technology that can increase the transparency of information and give trust between transaction parties. By utilizing these characteristics, many trust issues in modern society can be solved. In addition, the Web3 app, which grants data ownership to users, can solve the data monopoly issue of platform companies. In this class, we will expand the scope of blockchain use, which is currently concentrated on cryptocurrency, and explore ways to solve various social problems and global challenges. Web3 apps are different from developing existing Internet applications. Since smart contract codes are written in the blockchain, transparency and trust can be improved, while security and code audit become more important. And since applications implemented as an open protocol are accessible without permission, web3 apps can be developed as if assembling Lego blocks. Web3 forms a community where all participants are the owners of the service. Therefore, designing and programming an incentive model and a governance model is a crucial task to ensure community-centered operation. 
+The following topics will be covered:
 
 - Web3/Blockchain basics
 - Blockchain technology fundamentals and advanced topics
@@ -56,7 +58,21 @@ Option 2. Web3 startup proposal
 - Writing a pitch deck to found a Web3 startup.
 
 
+## Schedule (Tentative)
 
+| Date        | Topics          | Instructors |
+|:-------------|:------------------|:------|
+| 3/8 (Wed)    | Course Introduction
+Blockchain/Web3 101
+Blockchain/Web3 Ethics
+Blockchain/Web3 Applications: Case Studies
+ | Jaesun Han
+Min Suk Kang
+Sukyoung Ryu
+  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 
 
