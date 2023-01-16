@@ -1,5 +1,5 @@
 ---
-name: Jaesun Han
+name: Jaesun Han (Jason)
 role: Instructor
 email: web3classdao@gmail.com
 website: https://jaesunhan.com/
