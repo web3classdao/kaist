@@ -99,7 +99,9 @@ The audience is limited by the approval for an online application. Those who are
 
 ## Expert mentors
 
-We are going to invite blockchain/web3 industry experts as course mentors. Mentors will 1) answer questions related to the lecture contents or blockchain/web3, 2) give advice and guide students on their final projects, 3) share their experiences and insights (if desired) in a separate session, and 4) run the class community together. Mentors will be 1) recommended by professors or 2) approved for an online application. You can apply if you fall under either of the following two: 1) Experts in blockchain/web3, 2) Experts in vertical industries where the web3 app can be applied. All mentors should not have a one-sided mind, but a community-mind that they learn from each other.
+We are going to invite blockchain/web3 industry experts as course mentors. Mentors will 1) answer questions related to the lecture contents or blockchain/web3, 2) give advice and guide students on their final projects, 3) share their experiences and insights (if desired) in a separate session, and 4) run the class community together. Mentors will be 1) recommended by professors or 2) approved for an online application. You can apply if you fall under either of the following two: 1) Experts in blockchain/web3, 2) Experts in vertical industries where the web3 app can be applied. All mentors should not have a one-sided mind, but a community-mind that they learn from each other.<br>
+- [Mentor application](https://forms.gle/DsdVuMgop6kDGxUt7){: target="_blank" }
+
 Mentor benefits
 - Communicate with talented people, share insights, and get inspiration.
 - Take classes without paying for the tuition fee.
