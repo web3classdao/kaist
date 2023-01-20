@@ -27,11 +27,11 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-#aux_links:
-#  Kevin Lin:
-#    - 'https://kevinl.info'
-#  Just the Class on GitHub:
-#    - 'https://github.com/kevinlin1/just-the-class'
+aux_links:
+  Application(En):
+    - 'https://forms.gle/UwEn2isrcRRB42LaA'
+  Application(Kr):
+    - 'https://forms.gle/QSLFbe6JisyvUZE69'
 footer_content:
 
 # Collections for website data
