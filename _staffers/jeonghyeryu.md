@@ -8,10 +8,10 @@ website: https://www.facebook.com/jeonghye.ryu/
 photo: jeonghyeryu.jpg
 ---
 
-Kakao Entertainment / Vice President 
-Google Startup for Korea / Mentor since 2021
-Kakao Page / CMO
-TOSSLAB / Head of Marketing
-NHN Entertainment / Market Insight Leader
-Naver / Marketing & Insight Leader
+Kakao Entertainment / Vice President<br> 
+Google Startup for Korea / Mentor since 2021<br> 
+Kakao Page / CMO<br> 
+TOSSLAB / Head of Marketing<br> 
+NHN Entertainment / Market Insight Leader<br> 
+Naver / Marketing & Insight Leader<br> 
 Seoul National University with a degree in anthropology
