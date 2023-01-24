@@ -20,7 +20,9 @@
   }
   
   .staffer-affiliation {
-    @extend .fs-3, .text-grey-dk-100, .bg-grey-lt-200;
+    @extend .fs-3, .text-grey-dk-200;
+    font-style: italic;
+    margin-left: $sp-4;
   }
 
   .staffer-meta {
