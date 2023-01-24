@@ -3,11 +3,12 @@
   margin: $sp-4 0;
 
   .staffer-image {
-    border-radius: 50%;
+    /* border-radius: 50%; */
     width: 100px;
     height: 100px;
     object-fit: cover;
-    margin-right: $sp-4;
+    overflow: hidden;
+    /* margin-right: $sp-4; */
   }
 
   p,
