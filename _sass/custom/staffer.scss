@@ -19,6 +19,10 @@
 
     user-select: none;
   }
+  
+  .staffer-affiliation {
+    @extend .label, .text-grey-dk-100, .bg-grey-lt-200;
+  }
 
   .staffer-meta {
     @extend .fs-3 .text-grey-dk-100;
