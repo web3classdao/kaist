@@ -1,6 +1,8 @@
 ---
 name: Sang Sik Joo
 role: Mentor
+affiliation: CEO @ bitBLUE
+pronouns: dev / product / biz / tokenomics
 # email: eugene@bitblue.team
 website: https://www.linkedin.com/in/beatblue/
 photo: sangsikjoo.jpg
