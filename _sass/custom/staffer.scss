@@ -26,6 +26,10 @@
   }
 
   .staffer-meta {
+    @extend .text-grey-dk-100;
+  }
+  
+  .staffer-content {
     @extend .fs-3, .text-grey-dk-100;
   }
 }
