@@ -29,11 +29,8 @@
     @extend .text-grey-dk-100;
   }
   
-  .staffer-content {
-    
-    p, {
-      @extend .fs-3, .text-grey-dk-100;
-      font-style: italic;
-    }
+  .staffer-content p {
+    @extend .fs-3, .text-grey-dk-100;
+    font-style: italic;
   }
 }
