@@ -4,7 +4,7 @@ role: Mentor
 affiliation: CSO @ Bisonai
 pronouns: product / biz / community / governance
 # email: everinh@gmail.com
-website: https://www.linkedin.com/davegmi
+website: https://www.linkedin.com/in/davegmi/
 photo: minsuchoi.jpeg
 ---
 
