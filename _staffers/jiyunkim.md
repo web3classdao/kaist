@@ -5,5 +5,5 @@ affiliation: CEO @ DSRV
 pronouns: 
 # email: jiyun.kim@dsrvlabs.com
 website: 
-photo: web3mentor.jpg
+photo: web3mentor.png
 ---
