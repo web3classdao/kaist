@@ -16,5 +16,9 @@ Mentors come from various blockchain/web3 companies. The list will be updated.
 
 ## Mentor's affiliated companies
 
-[![bitBLUE](/kaist/assets/images/bitblue.jpg)](https://www.bitblue.team/)
-[![Companoid Labs](/kaist/assets/images/companoidlabs.png)](https://www.companoid.io/)
+<a href="https://www.bitblue.team/" target="_black">
+	<img src="/kaist/assets/images/bitblue.jpg" width="200px" alt="bitBLUE">
+</a>
+<a href="https://www.companoid.io/" target="_black">
+	<img src="/kaist/assets/images/companoidlabs.png" width="200px" alt="Companoid Labs">
+</a>
