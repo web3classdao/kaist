@@ -8,6 +8,8 @@ seo:
   name: Web3@KAIST
 ---
 
+<img src="/kaist/assets/images/web3kaist.png" alt="Web3@KAIST">
+
 # Building Web3 & Blockchain Applications
 KAIST, Spring 2023 
 {: .fs-6 .text-grey-dk-000 }
