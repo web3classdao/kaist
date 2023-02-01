@@ -1,5 +1,5 @@
 ---
-name: Minsu Choi
+name: David Choi
 role: Mentor
 affiliation: CSO @ Bisonai
 pronouns: product / biz / community / governance
