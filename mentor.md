@@ -30,7 +30,7 @@ Mentors come from various blockchain/web3 companies. The list will be updated.
 <a href="https://theori.io/" target="_black"><img class="logo-image" src="/kaist/assets/images/theori.png" alt="Theori"></a>
 <a href="https://www.facebook.com/uprootcompany/" target="_black"><img class="logo-image" src="/kaist/assets/images/uprootcompany.png" alt="Uproot Company"></a>
 <a href="https://www.linkedin.com/in/ekjoo/" target="_black"><img class="logo-image" src="/kaist/assets/images/wasd3r.png" alt="WASD3R"></a>
-<a href="https://topology.gg" target="_black"><img class="logo-image" src="/kaist/assets/images/topology.png" alt="Topology"></a>
+<a href="https://topology.gg" target="_black"><img class="logo-image" src="/kaist/assets/images/topology.PNG" alt="Topology"></a>
 <a href="https://www.klaytn.foundation/" target="_black"><img class="logo-image" src="/kaist/assets/images/klaytn.png" alt="Klaytn Foundation"></a>
 <a href="https://xangle.io/" target="_black"><img class="logo-image" src="/kaist/assets/images/xangle.png" alt="Xangle"></a>
 <a href="https://www.atomrigs.io/" target="_black"><img class="logo-image" src="/kaist/assets/images/atomrigs.png" alt="Atomrigs"></a>
