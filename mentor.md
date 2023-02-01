@@ -30,4 +30,13 @@ Mentors come from various blockchain/web3 companies. The list will be updated.
 <a href="https://theori.io/" target="_black"><img class="logo-image" src="/kaist/assets/images/theori.png" alt="Theori"></a>
 <a href="https://www.facebook.com/uprootcompany/" target="_black"><img class="logo-image" src="/kaist/assets/images/uprootcompany.png" alt="Uproot Company"></a>
 <a href="https://www.linkedin.com/in/ekjoo/" target="_black"><img class="logo-image" src="/kaist/assets/images/wasd3r.png" alt="WASD3R"></a>
+<a href="https://topology.gg" target="_black"><img class="logo-image" src="/kaist/assets/images/topology.png" alt="Topology"></a>
+<a href="https://www.klaytn.foundation/" target="_black"><img class="logo-image" src="/kaist/assets/images/klaytn.png" alt="Klaytn Foundation"></a>
+<a href="https://xangle.io/" target="_black"><img class="logo-image" src="/kaist/assets/images/xangle.png" alt="Xangle"></a>
+<a href="https://www.atomrigs.io/" target="_black"><img class="logo-image" src="/kaist/assets/images/atomrigs.png" alt="Atomrigs"></a>
+<a href="https://www.allink.io/" target="_black"><img class="logo-image" src="/kaist/assets/images/allink.png" alt="Allink"></a>
+<a href="https://peertec.com/" target="_black"><img class="logo-image" src="/kaist/assets/images/peertec.png" alt="Peertec"></a>
+<a href="http://majors.kr" target="_black"><img class="logo-image" src="/kaist/assets/images/newz.jpeg" alt="Newz"></a>
+<a href="https://www.forte.io/" target="_black"><img class="logo-image" src="/kaist/assets/images/forte.jpg" alt="Forte"></a>
+<a href="https://hunt.town" target="_black"><img class="logo-image" src="/kaist/assets/images/hunttown.png" alt="Hunt Town"></a>
 </div>
