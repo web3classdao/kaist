@@ -8,5 +8,5 @@ website: https://twitter.com/soba_ativ
 photo: mingyujo.jpeg
 ---
 
-Formal - Dev Clink(Const), Dev Intern Mound.
+Formal - Dev Clink(Const), Dev Intern Mound.<br>
 Current - Co-Founder ATIV, Vice-President Decipher, Undergraduate of KAIST School of Computing
