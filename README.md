@@ -68,8 +68,8 @@ Option 2. Web3 startup proposal
 | 3/8     | Course Introduction<br>Blockchain/Web3 101<br>Blockchain/Web3 Ethics<br>Blockchain/Web3 Applications: Case Studies | Jaesun Han<br>Min Suk Kang<br>Sukyoung Ryu |
 | 3/15    | Blockchain Technology 101   | Min Suk Kang  |
 | 3/22    | Blockchain Technology: Advanced<br>(L1/L2, ZKP, Sharding, etc)<br>How complicated it is to build a blockchain platform | Min Suk Kang<br>Sangmin Seo (Director,  Klaytn Foundation) |
-| 3/29    | Blockchain/Web3 Business and Ecosystem<br>(Dapp, Wallets, DEX, IPFS, Oracles, etc)<br>Building blockchain applications: top-down view | Jaesun Han  |
-| 4/5     | Smart Contracts & Programming Solidity  | Invited Speaker (Senior Solidity programmer) |
+| 3/29    | Smart Contracts & Programming Solidity | Invited Speaker (Senior Solidity programmer) |
+| 4/5     | Blockchain/Web3 Business and Ecosystem<br>(Dapp, Wallets, DEX, IPFS, Oracles, etc)<br>Building blockchain applications: top-down view  | Jaesun Han |
 | 4/12    | Smart Contracts Security and Issues<br>Developing robust Web3 applications  | Brian Pak (Cofounder & CEO, Theori)  |
 | 4/19    | Mid-term exam period (no class & no exam)  | - |
 | 4/26    | Token Economy & Incentive Model<br>Governance by Community | Seungwon Jeong (Professor, KAIST)<br>Jaesun Han  |
