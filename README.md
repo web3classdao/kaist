@@ -95,8 +95,8 @@ It is a closed community for class participants only. In the early days, profess
 ## Policy for auditors
 
 The audience is limited by the approval for an online application. Those who are interested in web3 app development and business can apply regardless of 1) whether they are students in KAIST, 2) whether they are Koreans, and 3) whether they are working in the blockchain industry. The tuition fee is 200,000 KRW(160 USD) and will be donated to KAIST Computer Science department. Students(Undergrad & Grad) are discounted 50% to 100,000 KRW(80 USD). Auditors can participate in the class, the final project assignment, and the class community if they want. 
-- [English application](https://forms.gle/UwEn2isrcRRB42LaA){: target="_blank" }
-- [Korean application](https://forms.gle/QSLFbe6JisyvUZE69){: target="_blank" }
+- English application (Closed)
+- Korean application (Closed)
 
 
 ## Expert mentors
