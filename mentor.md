@@ -50,4 +50,6 @@ Mentors come from various blockchain/web3 companies. The list will be updated.
   <a href="https://www.buidl.asia/" target="_black"><img class="logo-image" src="/kaist/assets/images/kryptoseoul.png" alt="kryptoseoul"></a>
   <a href="https://haechi.io" target="_black"><img class="logo-image" src="/kaist/assets/images/haechilabs.png" alt="haechi labs"></a>
   <a href="https://www.theradius.xyz/" target="_black"><img class="logo-image" src="/kaist/assets/images/radius.png" alt="radius"></a>
+  <a href="https://www.ezstrading.com/" target="_black"><img class="logo-image" src="/kaist/assets/images/ezs.jpg" alt="ezs"></a>
+  <a href="http://philosophiavc.com" target="_black"><img class="logo-image" src="/kaist/assets/images/philosophiaventures.png" alt="philosophia ventures"></a>
 </div>
