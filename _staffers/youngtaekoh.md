@@ -4,7 +4,7 @@ role: Mentor
 affiliation: Director/Investment Team @ Philosophia Ventures
 pronouns: Dev / Community & Governance
 # email: robbie@philosophiavc.com
-website: https://www.linkedin.com/in/jaewon-han-07b81b161/
+website: https://www.linkedin.com/in/lcdm
 photo: youngtaekoh.jpg
 ---
 
