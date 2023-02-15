@@ -76,7 +76,7 @@ Option 2. Web3 startup proposal
 | 5/3     | Cryptocurrency and Stablecoin<br>DeFi (Decentralized Finance) | Jaesun Han<br>Invited Speaker (Senior DeFi expert) |
 | 5/10    | NFT & SBT<br>NFT/SBT  Applications | Jaesun Han<br>Daniel Minsu Kim (Founder & CEO,  NFTBank) |
 | 5/17    | NFT and Creator Economy<br>NFT and Metaverse | Jaesun Han<br>Sébastien Borget (Cofounder, The Sandbox)  |
-| 5/24    | GameFi and X2E Applications<br>DAO (Decentralized Autonomous Organization)  | Jaesun Han<br>Rolf Hoefer (Serial DAOist, Founding and Managing Partner, Cultur3)  |
+| 5/24    | Web3 Games<br>DAO (Decentralized Autonomous Organization)  | Johnny Lee (General Manager, Games at Solana Foundation)<br>Rolf Hoefer (Serial DAOist, Founding and Managing Partner, Cultur3)  |
 | 5/31    | Web3 Applications in 3C (Community-Contents-Commerce)<br>Web3 Applications for Social Problems and Global Challenges<br>AI + Blockchain | Jaesun Han<br>Invited Speaker (Founder of Web3 apps)  |
 | 6/7     | Web3 startup building & fund raising<br>Students Presentation on Web3 Projects  | Jaesun Han<br>Min Suk Kang<br>Sukyoung Ryu |
 
