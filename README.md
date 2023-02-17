@@ -73,7 +73,7 @@ Option 2. Web3 startup proposal
 | 4/12    | Smart Contracts Security and Issues<br>Developing robust Web3 applications  | Brian Pak (Cofounder & CEO, Theori)  |
 | 4/19    | Mid-term exam period (no class & no exam)  | - |
 | 4/26    | Token Economy & Incentive Model<br>Governance by Community | Seungwon Jeong (Professor, KAIST)<br>Jaesun Han  |
-| 5/3     | Cryptocurrency and Stablecoin<br>DeFi (Decentralized Finance) | Jaesun Han<br>Invited Speaker (Senior DeFi expert) |
+| 5/3     | Cryptocurrency and Stablecoin<br>DeFi (Decentralized Finance) | Jaesun Han<br>Adrian Li (DFX Finance) |
 | 5/10    | NFT & SBT<br>NFT/SBT  Applications | Jaesun Han<br>Daniel Minsu Kim (Founder & CEO,  NFTBank) |
 | 5/17    | NFT and Creator Economy<br>NFT and Metaverse | Jaesun Han<br>Sébastien Borget (Cofounder, The Sandbox)  |
 | 5/24    | Web3 Games<br>DAO (Decentralized Autonomous Organization)  | Johnny Lee (General Manager, Games at Solana Foundation)<br>Rolf Hoefer (Serial DAOist, Founding and Managing Partner, Cultur3)  |
