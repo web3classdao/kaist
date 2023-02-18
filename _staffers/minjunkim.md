@@ -2,7 +2,7 @@
 name: MinJun Kim
 role: Community Staff
 affiliation: Business/Product Development @ PiLab (BIFROST)
-#pronouns: telegram @jmg2107
+pronouns: Staff Leader
 email: minjun.kim@soonilabs.com
 website: https://www.instagram.com/orakle.kaist/
 photo: minjunkim.jpg
