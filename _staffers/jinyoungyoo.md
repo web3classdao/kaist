@@ -2,7 +2,7 @@
 name: JinYoung Yoo
 role: Mentor
 affiliation: Core Member(Research) @ ReFi Seoul
-pronouns: ReFi / ImpactDAO
+pronouns: ReFi / Governance / Tokenomics
 # email: 1.jinyoung.yoo@gmail.com
 website: https://twitter.com/uj_uuverse
 photo: jinyoungyoo.jpg
