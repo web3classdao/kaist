@@ -5,7 +5,7 @@ affiliation: Blockchain Developer @ Bancof
 #pronouns: telegram @jmg2107
 email: seungan@bancof.io
 website: https://www.linkedin.com/in/seung-an-jung/
-photo: seunganjung.jpeg
+photo: seunganjung.png
 ---
 
 https://github.com/junggernaut<br>
