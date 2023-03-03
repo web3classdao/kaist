@@ -2,7 +2,6 @@
 layout: page
 title: Schedule
 nav_order: 4
-#nav_exclude: true
 description: Schedule | Web3@KAIST 2023
 ---
 
