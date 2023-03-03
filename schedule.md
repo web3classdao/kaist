@@ -7,6 +7,6 @@ description: Schedule | Web3@KAIST 2023
 
 # Schedule 
 
-{% for schedule in site.schedules %}
-{{ schedule }}
+{% for module in site.modules %}
+{{ module }}
 {% endfor %}
