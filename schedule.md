@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Schedule
-nav_exclude: true
-description: The weekly event schedule.
+nav_order: 4
+#nav_exclude: true
+description: Schedule | Web3@KAIST 2023
 ---
 
-# Weekly Schedule
+# Schedule 
 
-{% for schedule in site.schedules %}
-{{ schedule }}
+{% for module in site.modules %}
+{{ module }}
 {% endfor %}
