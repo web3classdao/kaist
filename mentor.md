@@ -53,4 +53,5 @@ Mentors come from various blockchain/web3 companies. The list will be updated.
   <a href="https://www.ezstrading.com/" target="_black"><img class="logo-image" src="/kaist/assets/images/ezs.jpg" alt="ezs"></a>
   <a href="http://philosophiavc.com" target="_black"><img class="logo-image" src="/kaist/assets/images/philosophiaventures.png" alt="philosophia ventures"></a>
   <a href="https://lightscale.io/" target="_black"><img class="logo-image" src="/kaist/assets/images/lightscale.png" alt="lightscale"></a>
+  <a href="https://2pmlab.co/" target="_black"><img class="logo-image" src="/kaist/assets/images/2pmlab.jpg" alt="2pmlab"></a>
 </div>
