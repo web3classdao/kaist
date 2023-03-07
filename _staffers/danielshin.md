@@ -3,7 +3,7 @@ name: Daniel M Shin
 role: Mentor
 affiliation: Partner @ KingsBay Capital
 pronouns: Product / Business / Tokenomics
-# email: Daniel.M.Shin@gmail.com
+email: dshin@kingsbaycapital.com
 website: https://about.me/danielshin
 photo: danielshin.jpeg
 ---
