@@ -3,7 +3,7 @@ name: Boram Kim
 role: Mentor
 affiliation: CBO @ H Lab
 pronouns: Product / Business / Community & Governance
-# email: stefan.kim@neopin.io
+email: stefan.kim@neopin.io
 website: 
 photo: stefankim.jpg
 ---
