@@ -5,8 +5,6 @@ nav_order: 3
 description: A listing of all the course mentors.
 ---
 
-<img src="/kaist/assets/images/web3kaist.png" alt="Web3@KAIST">
-
 # Mentors
 
 Mentors come from various blockchain/web3 companies. The list will be updated. 
