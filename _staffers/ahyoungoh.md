@@ -3,7 +3,7 @@ name: Ahyoung Oh
 role: Mentor
 affiliation: Product Manager @ NFTBank
 pronouns: product
-# email: fouros95@gmail.com
+email: fouros95@gmail.com
 website: https://www.instagram.com/zoebringsjoy/
 photo: ahyoungoh.jpg
 ---
