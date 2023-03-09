@@ -3,7 +3,7 @@ name: Jinkyu Jang
 role: Mentor
 affiliation: Chairman & CEO @ Companoid Labs
 pronouns: product / UX
-# email: alan.president@companoid.io
+email: alan.president@companoid.io
 website: https://www.facebook.com/alan.jk.jang/
 photo: jinkyujang.jpg
 ---
