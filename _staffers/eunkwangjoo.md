@@ -3,7 +3,7 @@ name: Eunkwang Joo
 role: Mentor
 affiliation: CEO @ WASD3R
 pronouns: dev / product / biz
-# email: eugene@wasd3r.xyz
+email: eugene@wasd3r.xyz
 website: https://fb.com/jooddang
 photo: eunkwangjoo.jpg
 ---
