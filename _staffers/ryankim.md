@@ -3,7 +3,7 @@ name: Sungho Kim
 role: Mentor
 affiliation: Partner @ Hashed
 pronouns: Business
-# email: ryan@hashed.com
+email: ryan@hashed.com
 website: 
 photo: ryankim.jpeg
 ---
