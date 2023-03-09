@@ -3,7 +3,7 @@ name: Geon-gi Moon
 role: Mentor
 affiliation: CEO, Co-founder @ HAECHI LABS
 pronouns: Product / Business
-# email: moon@haechi.io
+email: moon@haechi.io
 website: https://www.linkedin.com/in/geon-gi-moon/
 photo: geongimoon.JPG
 ---
