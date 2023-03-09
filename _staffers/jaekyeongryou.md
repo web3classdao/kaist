@@ -3,8 +3,8 @@ name: Ryou Jaekyeong
 role: Mentor
 affiliation: UX research & Company building @ Companoid Labs
 pronouns: product / UX
-# email: opacity30@companoid.io
-# website: 
+email: opacity30@companoid.io
+website: 
 photo: jaekyeongryou.jpg
 ---
 
