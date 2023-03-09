@@ -3,7 +3,7 @@ name: MinJi Kim
 role: Mentor
 affiliation: NBN TV Anchor & Art&Tech columnist
 pronouns: Art / Product / Business
-# email: artandtechminji@gmail.com
+email: artandtechminji@gmail.com
 website: https://www.artandtechminji.com/
 photo: minjikim.jpg
 ---
