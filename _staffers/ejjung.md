@@ -3,8 +3,8 @@ name: EJ Jung
 role: Mentor
 affiliation: Associate Professor @ University of San Francisco
 pronouns: Tokenomics
-# email: eunjin.jung@gmail.com
-# website: 
+email: eunjin.jung@gmail.com
+website: 
 photo: ejjung.jpg
 ---
 
