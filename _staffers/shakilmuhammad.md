@@ -3,7 +3,7 @@ name: Shakil Muhammad
 role: Mentor
 affiliation: CEO @ Genesis Lab
 pronouns: dev
-# email: shakil@genesislab.com
+email: shakil@genesislab.com
 website: https://www.linkedin.com/in/shakilkaist/
 photo: shakilmuhammad.jpg
 ---
