@@ -3,7 +3,7 @@ name: Kunho Kim
 role: Mentor
 affiliation: Cofounder @ Topology
 pronouns: Product / Business / Community & Governance / L2 / zk rollups
-# email: kk@topology.gg
+email: kk@topology.gg
 website: https://twitter.com/topology_gg
 photo: kunhokim.JPG
 ---
