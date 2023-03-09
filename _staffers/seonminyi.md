@@ -3,7 +3,7 @@ name: SeonMin Yi
 role: Mentor
 affiliation: Corp. Adviser (Web 3.0 adoption Strategy) @ Cross angle (Xangle)
 pronouns: Business / Community & Governance / Tokenomics
-# email: clara@crossangle.io
+email: clara@crossangle.io
 website: https://www.facebook.com/cutebany
 photo: seonminyi.jpg
 ---
