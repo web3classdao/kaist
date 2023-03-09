@@ -3,7 +3,7 @@ name: Jihoon Suh
 role: Mentor
 affiliation: Senior product designer @ Coinbase
 pronouns: Product / Tokenomics / Design
-# email: jihoon8846@gmail.com
+email: jihoon8846@gmail.com
 website: http://instagr.am/jihoons
 photo: jihoonsuh.jpg
 ---
