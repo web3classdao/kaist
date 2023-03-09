@@ -3,7 +3,7 @@ name: Jaewon Han
 role: Mentor
 affiliation: Product Owner @ BlockOdyssey, EZS Trading Team
 pronouns: Dev / Product
-# email: jxwonah@gmail.com
+email: jxwonah@gmail.com
 website: https://www.linkedin.com/in/jaewon-han-07b81b161/
 photo: jaewonhan.jpeg
 ---
