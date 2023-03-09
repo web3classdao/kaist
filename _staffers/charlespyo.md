@@ -3,7 +3,7 @@ name: Charles Pyo
 role: Mentor
 affiliation: Founder & CEO @ Chain Partners
 pronouns: Product / Business
-# email: pyo@chain.partners
+email: pyo@chain.partners
 website: http://charlespyo.com
 photo: charlespyo.jpg
 ---
