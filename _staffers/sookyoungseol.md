@@ -3,7 +3,7 @@ name: Soo Kyoung Seol
 role: Mentor
 affiliation: CEO, Co-founder @ 2PM Lab Inc.
 pronouns: Product / Business / Community & Governance / Tokenomics
-# email: snow.seol@2pmlab.co
+email: snow.seol@2pmlab.co
 website: 
 photo: sookyoungseol.jpg
 ---
