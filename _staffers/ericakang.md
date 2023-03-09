@@ -3,7 +3,7 @@ name: Erica Kang
 role: Mentor
 affiliation: CEO @ KryptoSeoul
 pronouns: Community & Governance / Events / Branding
-# email: erica@kryptoseoul.com
+email: erica@kryptoseoul.com
 website: https://twitter.com/ekang426
 photo: ericakang.jpg
 ---
