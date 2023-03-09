@@ -3,7 +3,7 @@ name: Gahyun Kim
 role: Mentor
 affiliation: CEO @ NEWZ 
 pronouns: Contents
-# email: ceo@majors.kr
+email: ceo@majors.kr
 website: https://www.instagram.com/newzvibe/
 photo: gahyunkim.jpeg
 ---
