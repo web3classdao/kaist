@@ -3,7 +3,7 @@ name: Kiheon Shin
 role: Mentor
 affiliation: Free Worker / Creative Director
 pronouns: Product / Business / Tokenomics
-# email: heavenlydesigner@gmail.com
+email: heavenlydesigner@gmail.com
 website: https://www.facebook.com/kiheonshin/
 photo: kiheonshin.png
 ---
