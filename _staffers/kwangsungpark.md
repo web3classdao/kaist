@@ -3,7 +3,7 @@ name: Kwangsung Park
 role: Mentor
 affiliation: CEO @ a41 (a4x Inc.)
 pronouns: Business / Community & Governance
-# email: athos@a41.io
+email: athos@a41.io
 website: https://twitter.com/a41_john
 photo: kwangsungpark.jpg
 ---
