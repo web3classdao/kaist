@@ -3,7 +3,7 @@ name: Youree Lee
 role: Mentor
 affiliation: Executive Vice President @ Peertec (GDAC)
 pronouns: Product / Business
-# email: youree.lee@peertec.com
+email: youree.lee@peertec.com
 website: https://www.linkedin.com/in/youreelee/
 photo: youreelee.jpeg
 ---
