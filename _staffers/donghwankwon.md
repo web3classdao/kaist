@@ -3,7 +3,7 @@ name: Donghwan Kwon
 role: Mentor
 affiliation: Lead of Klaytn Core Team @ Klaytn Foundation
 pronouns: dev
-# email: aidan.kwon@klaytn.foundation
+email: aidan.kwon@klaytn.foundation
 website: 
 photo: donghwankwon.jpg
 ---
