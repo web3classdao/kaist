@@ -3,7 +3,7 @@ name: Steven Shin
 role: Mentor
 affiliation: Managing Partner @ QuadX
 pronouns: Growth & Marketing
-# email: steven@quadx.company
+email: steven@quadx.company
 website: 
 photo: stevenshin.jpg
 ---
