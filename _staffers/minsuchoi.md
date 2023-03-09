@@ -3,7 +3,7 @@ name: David Choi
 role: Mentor
 affiliation: CSO @ Bisonai
 pronouns: product / biz / community / governance
-# email: everinh@gmail.com
+email: everinh@gmail.com
 website: https://www.linkedin.com/in/davegmi/
 photo: minsuchoi.jpeg
 ---
