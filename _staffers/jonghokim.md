@@ -3,7 +3,7 @@ name: Jongho Kim
 role: Mentor
 affiliation: CEO @ Coredotlab
 pronouns: product
-# email: jongho@coredot.io
+email: jongho@coredot.io
 website: https://www.linkedin.com/in/jonghokim180
 photo: jonghokim.jpg
 ---
