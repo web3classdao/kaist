@@ -3,7 +3,7 @@ name: Dong Hyeok Kim (Sebastian)
 role: Mentor
 affiliation: CEO & Engineer @ Hunt Town
 pronouns: dev / product
-# email: sydneyitguy@gmail.com
+email: sydneyitguy@gmail.com
 website: https://twitter.com/0xsebayaki
 photo: donghyeokkim.jpg
 ---
