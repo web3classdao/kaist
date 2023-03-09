@@ -3,7 +3,7 @@ name: Ji Hoon Park
 role: Mentor
 affiliation: CEO and ZK-researcher @ Radius.xyz
 pronouns: Dev / Product
-# email: zeroknight@theradius.xyz
+email: zeroknight@theradius.xyz
 website: https://twitter.com/radius_xyz
 photo: jihoonpark.jpg
 ---
