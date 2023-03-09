@@ -3,7 +3,7 @@ name: Kyunsin Kim
 role: Mentor
 affiliation: CEO @ PAULUS
 pronouns: biz / Branding & Marketing
-# email: kyungsin.kim@paulus.pro
+email: kyungsin.kim@paulus.pro
 website: 
 photo: kyungsinkim.jpeg
 ---
