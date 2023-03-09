@@ -3,7 +3,7 @@ name: Jihoon Jeong
 role: Mentor
 affiliation: General Partner @ K2G Tech Fund
 pronouns: product / Biz / Investment
-# email: jihoon.jeong@gmail.com
+email: jihoon.jeong@gmail.com
 website: https://www.linkedin.com/in/jihoonjeong/
 photo: jihoonjeong.jpg
 ---
