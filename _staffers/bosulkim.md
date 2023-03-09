@@ -3,7 +3,7 @@ name: Bosul Kim
 role: Mentor
 affiliation: Associate Professor @ Seoul Institute of the Arts
 pronouns: Art / Design of Web3
-# email: hybridnatureproject@gmail.com 
+email: hybridnatureproject@gmail.com 
 website: https://twitter.com/bosul432
 photo: bosulkim.jpg
 ---
