@@ -3,7 +3,7 @@ name: Minho Yoo
 role: Mentor
 affiliation: CSO @ IoTrust (D'CENT Wallet)
 pronouns: dev / product / biz
-# email: minho.yoo@iotrust.kr
+email: minho.yoo@iotrust.kr
 website: https://twitter.com/WalletGuyMinho
 photo: minhoyoo.jpg
 ---
