@@ -3,7 +3,7 @@ name: Ingi Kim
 role: Mentor
 affiliation: Founder & CEO @ Code States
 pronouns: Product / Business / Community & Governance
-# email: ingikim@codestates.com
+email: ingikim@codestates.com
 website: http://twitter.com/kogim
 photo: ingikim.png
 ---
