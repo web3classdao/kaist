@@ -3,7 +3,7 @@ name: KyungKoo Kim
 role: Mentor
 affiliation: Software Engineer @ Ground X
 pronouns: dev / product
-# email: kim.kyungkoo@gmail.com
+email: kim.kyungkoo@gmail.com
 website: 
 photo: kyungkookim.jpg
 ---
