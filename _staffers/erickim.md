@@ -3,7 +3,7 @@ name: Eric Kim
 role: Mentor
 affiliation: Product Manager @ Sendbird
 pronouns: Product / Community & Governance
-# email: Jaeyeonkim0919@gmail.com
+email: Jaeyeonkim0919@gmail.com
 website: https://www.linkedin.com/in/jaeyeonerickim/
 photo: erickim.jpg
 ---
