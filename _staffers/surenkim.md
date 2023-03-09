@@ -3,7 +3,7 @@ name: Suren Kim
 role: Mentor
 affiliation: CEO @ LOCO
 pronouns: Contents
-# email: ceo@locoent.com
+email: ceo@locoent.com
 website: http://www.tiktok.com/@princess_pring
 photo: surenkim.png
 ---
