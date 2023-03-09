@@ -3,7 +3,7 @@ name: JinSan Kim
 role: Mentor
 affiliation: Technical Partner @ Blocore
 pronouns: Dev
-# email: jinsan@blocore.com
+email: jinsan@blocore.com
 website: 
 photo: jinsankim.jpg
 ---
