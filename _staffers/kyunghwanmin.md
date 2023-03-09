@@ -3,7 +3,7 @@ name: Kyunghwan Min
 role: Mentor
 affiliation: Partner @ Blocore
 pronouns: Business / Tokenomics
-# email: khmin@blocore.com
+email: khmin@blocore.com
 website: https://www.linkedin.com/in/kyunghwan-min/
 photo: kyunghwanmin.jpeg
 ---
