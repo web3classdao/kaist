@@ -3,7 +3,7 @@ name: Jen (Junghyun) Kim
 role: Mentor
 affiliation: Head of Product @ NFTBank
 pronouns: product / biz
-# email: jen@contxts.io
+email: jen@contxts.io
 website: https://twitter.com/NFTbank_ai
 photo: jenkim.jpg
 ---
