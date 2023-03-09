@@ -3,7 +3,7 @@ name: Daniel Kim
 role: Mentor
 affiliation: Director, APAC @ Forte 
 pronouns: Business / International Expansion
-# email: dkim@forte.io
+email: dkim@forte.io
 website: https://www.linkedin.com/in/danielkyujinkim/
 photo: danielkim.jpg
 ---
