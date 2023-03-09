@@ -3,7 +3,7 @@ name: Scott Kim
 role: Mentor
 affiliation: CBO @ HAVAH
 pronouns: biz
-# email: scottkim@havah.io
+email: scottkim@havah.io
 website: https://twitter.com/becool82
 photo: scottkim.jpeg
 ---
