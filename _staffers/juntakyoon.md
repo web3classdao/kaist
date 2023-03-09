@@ -3,7 +3,7 @@ name: Juntak Yoon
 role: Mentor
 affiliation: CSO @ bitBLUE
 pronouns: product / biz
-# email: chris@bitblue.team
+email: chris@bitblue.team
 website: https://www.facebook.com/juntak.yoon
 photo: juntakyoon.png
 ---
