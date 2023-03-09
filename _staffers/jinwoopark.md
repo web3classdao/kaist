@@ -3,7 +3,7 @@ name: Jinwoo Park
 role: Mentor
 affiliation: CEO @ OFF Live Pte. LTD
 pronouns: Tokenomics
-# email: roux@off.live
+email: roux@off.live
 website: https://twitter.com/off_jinwoo
 photo: jinwoopark.jpg
 ---
