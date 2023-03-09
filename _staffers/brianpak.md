@@ -3,7 +3,7 @@ name: Brian pak
 role: Mentor
 affiliation: CEO @ Theori
 pronouns: dev / product / biz / security 
-# email: brian@theori.io
+email: brian@theori.io
 website: https://twitter.com/brian_pak
 photo: brianpak.png
 ---
