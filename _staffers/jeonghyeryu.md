@@ -3,7 +3,7 @@ name: Ryu Jeong Hye
 role: Mentor
 affiliation: VP of Marketing @ Kakao Entertainment
 pronouns: biz / community / governance
-# email: ryu@kakaoent.com
+email: ryu@kakaoent.com
 website: https://www.facebook.com/jeonghye.ryu/
 photo: jeonghyeryu.jpg
 ---
