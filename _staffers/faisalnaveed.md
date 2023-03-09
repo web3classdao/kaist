@@ -3,7 +3,7 @@ name: Faisal Naveed
 role: Mentor
 affiliation: CTO @ Genesis Lab
 pronouns: Dev
-# email: faisal@rnssol.com
+email: faisal@rnssol.com
 website: https://www.linkedin.com/in/faisal-naveed-5a442b156/
 photo: faisalnaveed.jpeg
 ---
