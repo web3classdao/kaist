@@ -3,7 +3,7 @@ name: Taekyu Park
 role: Mentor
 affiliation: CEO @ Lightscale
 pronouns: Product / Business
-# email: tk@lightscale.io
+email: tk@lightscale.io
 website: https://www.linkedin.com/in/tk-taekyu-park-1b691b15/
 photo: taekyupark.jpg
 ---
