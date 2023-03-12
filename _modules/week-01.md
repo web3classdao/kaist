@@ -12,10 +12,8 @@ Instructor: Jason Han, Min Suk, Kang, Sukyoung Ryu<br>
 Lecture 1. Introduction to Web3 & Blockchain<br>
 Instructor: Jason Han<br>
 Abstract: In this lecture, we overview the course and the class community. Then we are going to address the history of the web in order to understand the background of the emergence of Web3. Exploring various Web3 definitions, we define Web3 from a user data perspective.<br>
-<ul>
-  <li>Lecture slide</li>
-  <li>Lecture recording</li>
-</ul>
+- Lecture slide<br>
+- Lecture recording<br>
 
 Lecture 02
   :
