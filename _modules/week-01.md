@@ -3,6 +3,7 @@ Week 01
 ---
 
 Mar 8 (Wed)
+  : Week 01
 
 Session 1: 4:00 pm - 5:20 pm<br>
 Lecture 0. Course Overview & Class Community Overview(#)<br>
