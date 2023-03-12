@@ -3,7 +3,7 @@ name: Junghyun Kim
 role: Mentor
 affiliation: Lead of Klaytn Core Dev @ Krust Universe
 pronouns: dev / product
-email: kjhman21@gmail.com
+email: colin.klaytn@klaytn.foundation
 website: https://twitter.com/kjhman21
 photo: junghyunkim.jpeg
 ---
