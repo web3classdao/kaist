@@ -6,7 +6,7 @@ Week 02
 : Mar 15 (Wed) 4:00 pm - 6:50 pm
   : Online zoom
 
-<b>Lecture 03 & 04</b>
+<b>Lecture 03/04</b>
 : Blockchain Technology 101<br>
   Instructor: <a href="/kaist/staff/#Min Suk Kang">Min Suk Kang</a><br>
   Abstract: 
@@ -14,4 +14,4 @@ Week 02
   - Blockchain operations: permissionless, permissioned peer-to-peer networks
   - Consensus algorithms: security of PoW and PoS
   - Smart contracts: permissionless distributed computers 
-  Resources: slide, recording
+  <br>Resources: slide, recording
