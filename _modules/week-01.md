@@ -10,6 +10,18 @@ Mar 8
 : Lecture 2. Web3 Stack & Applications
   : Jason Han
 
-Mar 15
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Lecture 1: Why are you here?<br>
+Mon, Jan 11, 10:00 am – 11:20 am (Moses)<br>
+Lecture resources
+<ul>
+  <li>Lecture notes: [PDF]</li>
+  <li>Slides: [PDF] [PowerPoint]</li>
+  <li>Python notebook: [Colab] [Zip]</li>
+</ul>
+Recording
+<ul>
+  <li>Video: [Canvas]</li>
+</ul>
+
+Mar 8
+: Lecture 1.
