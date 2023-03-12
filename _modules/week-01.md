@@ -12,12 +12,12 @@ Mar 8
 
 Lecture 1: Why are you here?<br>
 Mon, Jan 11, 10:00 am – 11:20 am (Moses)<br>
-Lecture 
-<ul>
-  <li>Lecture notes: [PDF]</li>
-  <li>Slides: [PDF] [PowerPoint]</li>
-  <li>Python notebook: [Colab] [Zip]</li>
-</ul>
+<dl>
+  <dt>Lecture resources</dt> 
+  <dd>Lecture notes: [PDF]</dd>
+  <dd>Slides: [PDF] [PowerPoint]</dd>
+  <dd>Python notebook: [Colab] [Zip]</dd>
+</dl>
 Recording
 <ul>
   <li>Video: [Canvas]</li>
