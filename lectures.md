@@ -6,3 +6,7 @@ description: Lectures | Web3@KAIST 2023
 ---
 
 # Lectures
+
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
