@@ -16,4 +16,4 @@ Week 02
     <li>Consensus algorithms: security of PoW and PoS</li>
     <li>Smart contracts: permissionless distributed computers</li>
   </ul>
-  Resources: slide, recording
+  Resources: TBA
