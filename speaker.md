@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guest Speaker
+title: Speaker
 nav_order: 4
 description: A listing of guest speakers.
 ---
