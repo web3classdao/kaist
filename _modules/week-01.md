@@ -1,23 +1,12 @@
----
-title: Introduction to Java
----
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Wed, Mar 8
+: Lecture 1: Course Overview & Class Community Overview(#)
+  : Jason Han
+: Lecture 1: Introduction to Web3 & Blockchain
+  : Jason Han
+: Lecture 2: Web3 Stack & Applications
+  : Jason Han
 
-Sep 29
+Wed, Mar 15
 : **Section**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
