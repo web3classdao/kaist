@@ -1,6 +1,7 @@
 ---
 name: Sangmin Seo, Ph.D.
 role: Speaker
+affiliation: Director @ Klaytn Foundation
 #email: sam.seo@klaytn.foundation
 website: https://twitter.com/seo_sangmin
 photo: sangminseo.jpg
