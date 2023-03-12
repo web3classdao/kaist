@@ -1,3 +1,6 @@
+---
+Schedule
+---
 
 Wed, Mar 8
 : Lecture 1: Course Overview & Class Community Overview(#)
