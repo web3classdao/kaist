@@ -12,7 +12,7 @@ Lecture 01
     Instructor: Jason Han<br>
     Abstract: In this lecture, we overview the course and the class community. Then we are going to address the history of the web in order to understand the background of the emergence of Web3. Exploring various Web3 definitions, we define Web3 from a user data perspective.<br>
     Lecture slide<br>
-    Lecture recording
+    Lecture recording<br>
     : Jason Han
 
 Lecture 02 (Jason Han)
