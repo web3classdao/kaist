@@ -10,8 +10,10 @@ Week 02
 : Blockchain Technology 101<br>
   Instructor: <a href="/kaist/staff/#Min Suk Kang">Min Suk Kang</a><br>
   Abstract: 
-  - History of blockchain: from E-cash to Bitcoin to Ethereum
-  - Blockchain operations: permissionless, permissioned peer-to-peer networks
-  - Consensus algorithms: security of PoW and PoS
-  - Smart contracts: permissionless distributed computers 
-  <br>Resources: slide, recording
+  <ul>
+    <li>History of blockchain: from E-cash to Bitcoin to Ethereum</li>
+    <li>Blockchain operations: permissionless, permissioned peer-to-peer networks</li>
+    <li>Consensus algorithms: security of PoW and PoS</li>
+    <li>Smart contracts: permissionless distributed computers</li>
+  </ul>
+  Resources: slide, recording
