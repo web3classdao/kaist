@@ -6,9 +6,9 @@
   <div>
     <h3 class="staffer-name">
       {%- if page.website -%}
-      <a href="{{ page.website }}" target="_blank">{{ page.name }}</a>
+      <a href="{{ page.website }}" target="_blank" name="{{ page.name }}">{{ page.name }}</a>
       {%- else -%}
-      {{ page.name }}
+      <a name="{{ page.name }}">{{ page.name }}</a>
       {%- endif -%}
       {%- if page.affiliation -%}
       <span class="staffer-affiliation">{{ page.affiliation }}</span>
