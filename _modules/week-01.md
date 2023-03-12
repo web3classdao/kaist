@@ -12,12 +12,10 @@ Week 01
   Lecture 1. Introduction to Web3 & Blockchain<br>
   Instructor: <a href="/kaist/staff/#Jaesun Han (Jason)">Jason Han</a><br>
   Abstract: In this lecture, we overview the course and the class community. Then we are going to address the history of the web in order to understand the background of the emergence of Web3. Exploring various Web3 definitions, we define Web3 from a user data perspective.<br>
-  - Lecture slide
-  - Lecture recording
+  Resources: slide, recording
 
 <b>Lecture 02</b>
 : Lecture 2. Web3 stack and applications<br>
-  Instructor: <a href="/kaist/mentor/#Ryou Jaekyeong">Jason Han</a><br>
+  Instructor: <a href="/kaist/staff/#Jaesun Han (Jason)">Jason Han</a><br>
   Abstract: We'll give a general preview of the Web3 stack, and then look at examples of Web3 apps that are solving real-world problems to see how they've used the Web3 stack. Finally, we look at the dark side of Web3, blockchain, and crypto, giving advice on how to approach Web3.<br> 
-  - Lecture slide
-  - Lecture recording
+  Resources: slide, recording
