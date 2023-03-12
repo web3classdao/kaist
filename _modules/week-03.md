@@ -2,7 +2,7 @@
 Week 03
 ---
 
-<b>Week 02</b>
+<b>Week 03</b>
 : Mar 22 (Wed) 4:00 pm - 6:50 pm
   : Online zoom
 
@@ -20,6 +20,6 @@ Week 03
 <b>Lecture 06</b>
 : Building and Operating a Public Blockchain: Engineering Perspective<br>
   Guest Speaker: <a href="/kaist/speaker/#Sangmin Seo">Sangmin Seo, Ph.D.</a> (Director @ Klaytn Foundation)<br>
-  Abstract: Building and operating a public blockchain (mainnet) requires various knowledge and skills in computer science and involves many technical challenges. In this talk, I will introduce the technology and diverse challenges required for the development and operation of the mainnet, and explain how it is implemented in reality and what problems are being solved through the example of Klaytn. I will also share the lessons the Klaytn team has learned through the experience of mainnet development and operation over the past five years.
+  Abstract: Building and operating a public blockchain (mainnet) requires various knowledge and skills in computer science and involves many technical challenges. In this talk, I will introduce the technology and diverse challenges required for the development and operation of the mainnet, and explain how it is implemented in reality and what problems are being solved through the example of Klaytn. I will also share the lessons the Klaytn team has learned through the experience of mainnet development and operation over the past five years.<br>
   Resources: TBA
     
