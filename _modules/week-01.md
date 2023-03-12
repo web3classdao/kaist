@@ -12,7 +12,7 @@ Mar 8
 
 Lecture 1: Why are you here?<br>
 Mon, Jan 11, 10:00 am – 11:20 am (Moses)<br>
-Lecture resources
+Lecture 
 <ul>
   <li>Lecture notes: [PDF]</li>
   <li>Slides: [PDF] [PowerPoint]</li>
