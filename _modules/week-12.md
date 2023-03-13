@@ -15,5 +15,5 @@ Week 12
 <b>Lecture 22</b>
 : DAOs: The what, why, and how<br>
   Guest Speaker: <a href="/kaist/speaker/#Dr. Rolf Lorenz Hoefer">Dr. Rolf Lorenz Hoefer</a> (Serial DAOist, Founding and Managing Partner @ Cultur3, MetaCartel Ventures DAO, Metarial VC)<br>
-  Abstract: DAOs can fundamentally alter the way we organize to deliver products and services. Many people are confused what DAOs are, and what they are not. We define DAOs, and from this definition will dive into the major logics driving when, why, and how DAOs will success or fail. We will go through a number of examples, as well as get an understanding of what the latest thinking and trends in the space are, including opportunities to contribute to the DAO space.
+  Abstract: DAOs can fundamentally alter the way we organize to deliver products and services. Many people are confused what DAOs are, and what they are not. We define DAOs, and from this definition will dive into the major logics driving when, why, and how DAOs will success or fail. We will go through a number of examples, as well as get an understanding of what the latest thinking and trends in the space are, including opportunities to contribute to the DAO space.<br>
   Resources: TBA
