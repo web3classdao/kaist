@@ -7,18 +7,13 @@ Week 09
   : Online zoom
 
 <b>Lecture 15</b>
-: Blockchain Technology: Advanced<br>
-  Instructor: <a href="/kaist/staff/#Min Suk Kang">Min Suk Kang</a><br>
-  Abstract: 
-  <ul>
-    <li>Limitations of layer-1 blockchains (e.g., Bitcoin, Ethereum)</li>
-    <li>Emerging layer-1 blockchains</li>
-    <li> Layer-2 solutions</li>
-  </ul>
+: Developing ERC20 fungible assets<br>
+  Instructor: <a href="/kaist/staff/#Jaesun Han (Jason)">Jason Han</a><br>
+  Abstract: The lecture will explain how to create an ERC20-based fungible asset. As a case study, we'll create an ERC20 governance token and use it to build community governance.<br>
   Resources: TBA
   
 <b>Lecture 16</b>
-: Building and Operating a Public Blockchain: Engineering Perspective<br>
-  Guest Speaker: <a href="/kaist/speaker/#Sangmin Seo, Ph.D.">Sangmin Seo, Ph.D.</a> (Director @ Klaytn Foundation)<br>
-  Abstract: Building and operating a public blockchain (mainnet) requires various knowledge and skills in computer science and involves many technical challenges. In this talk, I will introduce the technology and diverse challenges required for the development and operation of the mainnet, and explain how it is implemented in reality and what problems are being solved through the example of Klaytn. I will also share the lessons the Klaytn team has learned through the experience of mainnet development and operation over the past five years.<br>
+: The Evolution of Decentralized Finance(DeFi)<br>
+  Guest Speaker: <a href="/kaist/speaker/#Adrian Li">Adrian Li</a> (Ecosystem Development for the PSE team @ Ethereum Foundation)<br>
+  Abstract: A look into the history of how decentralized finance has evolved on the Ethereum blockchain. The lecture will also touch on things that are only possible on decentralized finance but not in traditional finance.<br>
   Resources: TBA
