@@ -9,7 +9,7 @@ Week 01
 <b>Lecture 01</b>
 : Lecture 0. Course Overview & Class Community Overview(#)<br>
   Instructor: Jason Han, Min Suk Kang, Sukyoung Ryu<br>
-  Resources: [slide]("/kaist/assets/files/Web3@KAIST-Lecture00-CourseOverview.pdf")<br>
+  Resources: [slide](/kaist/assets/files/Web3@KAIST-Lecture00-CourseOverview.pdf)<br>
   <br>
   Lecture 1. Introduction to Web3 & Blockchain<br>
   Instructor: <a href="/kaist/staff/#Jaesun Han (Jason)">Jason Han</a><br>
