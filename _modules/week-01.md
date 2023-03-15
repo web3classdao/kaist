@@ -22,4 +22,4 @@ Week 01
   Instructor: <a href="/kaist/staff/#Jaesun Han (Jason)">Jason Han</a><br>
   Abstract: We'll give a general preview of the Web3 stack, and then look at examples of Web3 apps that are solving real-world problems to see how they've used the Web3 stack. Finally, we look at the dark side of Web3, blockchain, and crypto, giving advice on how to approach Web3.<br> 
   Resources: <a href="/kaist/assets/files/Web3@KAIST-Lecture02.pdf" target="_blank">[slide]</a>,<br>
-             <!-- <a href="https://youtu.be/KQnvneNQMJY" target="_blank">[recording]</a><br> -->
+             <!-- <a href="https://youtu.be/SGFAKiTJjPs" target="_blank">[recording]</a><br> -->
