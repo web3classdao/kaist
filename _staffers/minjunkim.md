@@ -3,7 +3,7 @@ name: MinJun Kim
 role: Community Staff
 affiliation: Business/Product Development @ PiLab (BIFROST)
 pronouns: Staff Leader
-email: minjun.kim@soonilabs.com
+email: minjun@pi-lab.io
 website: https://www.instagram.com/orakle.kaist/
 photo: minjunkim.jpg
 ---
