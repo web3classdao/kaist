@@ -10,9 +10,6 @@ seo:
 
 <img src="/kaist/assets/images/web3kaist.png" alt="Web3@KAIST">
 
-# Important announcement
-If you don't get an announcement email about zoom link, please contact TA (jomingue2107@gmail.com, telegram: jmg2107)
-
 # Building Web3 & Blockchain Applications
 KAIST, Spring 2023 
 {: .fs-6 .text-grey-dk-000 }
