@@ -14,6 +14,6 @@ Week 08
   
 <b>Lecture 14</b>
 : Community and Governance in Web3<br>
-  Instructor: <a href="/kaist/speaker/#Songyi Lee">Jason Han</a><br>
+  Instructor: <a href="/kaist/speaker/#Songyi Lee">Songyi Lee</a><br>
   Abstract: We will cover the new economic system shaped by the community 3.0, explore how and why web3 is set up for the improved governance and organizational design for the future by discussing DAOs, its technology and human interactions.<br>
   Resources: TBA
