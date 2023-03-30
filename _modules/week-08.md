@@ -13,7 +13,7 @@ Week 08
   Resources: TBA
   
 <b>Lecture 14</b>
-: Governance by Community<br>
-  Instructor: <a href="/kaist/staff/#Jaesun Han (Jason)">Jason Han</a><br>
-  Abstract: This lecture covers the characteristics of a blockchain-based community and how services and data are governed by the community. It reviews various governance methods and tools.<br>
+: Community and Governance in Web3<br>
+  Instructor: <a href="/kaist/speaker/#Songyi Lee">Jason Han</a><br>
+  Abstract: We will cover the new economic system shaped by the community 3.0, explore how and why web3 is set up for the improved governance and organizational design for the future by discussing DAOs, its technology and human interactions.<br>
   Resources: TBA
