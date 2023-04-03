@@ -3,7 +3,7 @@ name: William Wooseok Jang
 role: Mentor
 affiliation: CSO @ Allink Co., Ltd.
 pronouns: Product / Business
-# email: ws2010.jang@gmail.com
+email: ws2010.jang@gmail.com
 website: https://www.linkedin.com/in/william-wooseok-jang/
 photo: wooseokjang.jpg
 ---
