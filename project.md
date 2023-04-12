@@ -76,6 +76,7 @@ Here are some examples of why you might want to apply blockchain,
 - To create a structure for participants to participate in decision-making.
 - To create a protocol that other services can use.
 - To increase the permissionless composabilityof services
+- And more
 
 You don't need to apply every concept of blockchain.
 You just need to take the best aspects of blockchain that are appropriate for the problem you're trying to solve.
@@ -157,6 +158,7 @@ Option 1. 프로토타입 구현하는 경우에 포커스를 맞췄지만, Opti
 - 참여자들이 의사결정에 참여할 수 있는 구조를 만들기 위해
 - 다른 서비스들이 사용할 수 있는 프로토콜을 만들기 위해
 - 서비스의 비허가 결합성을 높이기 위해
+- 그 외
 
 블록체인의 모든 컨셉을 적용할 필요는 없습니다.
 풀려고 하는 문제에 적합한 블록체인의 장점만 가져다 이용하면 됩니다.
