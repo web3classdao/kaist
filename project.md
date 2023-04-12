@@ -88,7 +88,7 @@ These tokens are only used as voting credits, not to create a cryptocurrency.
 ## Advice for 1-page proposal (Korean)
 
 프로젝트 아이디어를 찾고 제안서를 작성하는데 몇 가지 조언을 드립니다.
-이 조언은 [제안서 템플릿]((http://web3classdao.xyz/kaist/assets/files/web3kaist-proposal-teamname.pdf)으로 공유드린 온라인 투표 서비스 프로젝트를 에시로 설명드립니다.
+이 조언은 [제안서 템플릿](http://web3classdao.xyz/kaist/assets/files/web3kaist-proposal-teamname.pdf)으로 공유드린 온라인 투표 서비스 프로젝트를 에시로 설명드립니다.
 Option 1. 프로토타입 구현하는 경우에 포커스를 맞췄지만, Option 2에도 동일하게 적용될 수 있습니다.
 
 ### Problem
