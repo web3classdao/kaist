@@ -7,11 +7,20 @@ description: Final Project | Web3@KAIST 2023
 
 # Final Project
 
-## Advice for 1-page proposal
+You are required to submit a 1-page proposal for your final project by **midnight this Friday, April 14.** 
+- The link to submit was provided in last week's email.
+- Proposals will be open to the community. 
+- Idea change will be allowed in the final deliverable. (need to submit a revised proposal)
+- If you don't submit a proposal, you're warned that you may fail.
+
+
+## Advice on 1-page proposal
 
 There is some advice for finding project ideas and writing proposals from Prof. Jason.
 This advice is based on the online voting service project we shared as [a proposal template file](http://web3classdao.xyz/kaist/assets/files/web3kaist-proposal-teamname.pdf).
 We've focused on a prototype implementation of Option 1, but the same can be applied to Option 2.
+
+**There are already more than 350 potential users in the Web3@KAIST community. We recommend that you create a service for them, or propose a service for students on campus.** The online voting service in the example is the one we propose to use to evaluate the final projects in this class.
 
 ### Problem
 > **Keep the problem you're trying to solve small.<br>
@@ -84,12 +93,15 @@ These tokens are only used as voting credits, not to create a cryptocurrency.
 
 
 *****
+*****
 
 ## Advice for 1-page proposal (Korean)
 
 프로젝트 아이디어를 찾고 제안서를 작성하는데 몇 가지 조언을 드립니다.
 이 조언은 [제안서 템플릿](http://web3classdao.xyz/kaist/assets/files/web3kaist-proposal-teamname.pdf)으로 공유드린 온라인 투표 서비스 프로젝트를 에시로 설명드립니다.
 Option 1. 프로토타입 구현하는 경우에 포커스를 맞췄지만, Option 2에도 동일하게 적용될 수 있습니다.
+
+**Web3@KAIST 커뮤니티에는 이미 350명 이상의 잠재적인 사용자가 있다. 이들을 위한 서비스를 만들어 써 보게 하는 것을 추천한다. 또는 교내 학생들을 위한 서비스를 제안해 보는 것도 좋다.** 예시로 든 온라인 투표 서비스 역시 이번 수업에서 프로젝트를 평가하기 위해 활용하려고 제안하는 것이다. 
 
 ### Problem
 > **풀려고 하는 문제를 작게 잡아라.<br>
