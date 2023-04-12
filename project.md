@@ -14,9 +14,9 @@ This advice is based on the online voting service project we shared as [a propos
 We've focused on a prototype implementation of Option 1, but the same can be applied to Option 2.
 
 ### Problem
-> Keep the problem you're trying to solve small.
-> If possible, find a problem that solves a specific area or limited situation.
-> Once you've solved a problem in a specific area, you'll see a path to generalization.
+**Keep the problem you're trying to solve small.<br>
+If possible, find a problem that solves a specific area or limited situation.<br>
+Once you've solved a problem in a specific area, you'll see a path to generalization.**<br>
 
 For example, let's say you propose a project to solve the problem of manipulability and trust in online voting.
 The problem is broad and general because online voting can be applied anywhere.
@@ -30,8 +30,8 @@ Therefore, instead of limiting the audience, we expand the scope to participants
 Participants can include the organizers, staff, competitors, and the audience. 
 
 ### Solution
-> Don't try to solve every aspect of the problem.
-> The important thing is to make your proposed solution different. 
+**Don't try to solve every aspect of the problem.<br>
+The important thing is to make your proposed solution different.** <br>
 
 Let's use the example of an online voting project.
 There are many things to consider when implementing online voting on a blockchain.
@@ -49,8 +49,8 @@ If you want to implement perfect online voting, there are many more issues to ad
 There are a lot of issues, but the idea is not to solve them all, but to focus on two points of differentiation and implement them.  
 
 ### Why Blockchain
-> You need to seriously ask yourself why you should use blockchain.
-> If the reason to use blockchain is forced, it's not the right problem.
+**You need to seriously ask yourself why you should use blockchain.<br>
+If the reason to use blockchain is forced, it's not the right problem.**<br>
 
 Here are some examples of why you might want to apply blockchain,
 - To increase trust between multiple parties
@@ -92,9 +92,9 @@ These tokens are only used as voting credits, not to create a cryptocurrency.
 Option 1. 프로토타입 구현하는 경우에 포커스를 맞췄지만, Option 2에도 동일하게 적용될 수 있습니다.
 
 ### Problem
-> 풀려고 하는 문제를 작게 잡아라.
-> 가능한한 특정 영역이나 제한된 상황을 해결하는 문제를 찾아라.
-> 제한된 영역에서 먼저 문제를 풀고 나면 일반화할 수 있는 길이 보일거다.
+**풀려고 하는 문제를 작게 잡아라.<br>
+가능한한 특정 영역이나 제한된 상황을 해결하는 문제를 찾아라.<br>
+제한된 영역에서 먼저 문제를 풀고 나면 일반화할 수 있는 길이 보일거다.**<br>
 
 예를 들어, 온라인 투표의 조작 가능성과 신뢰 문제를 해결하는 프로젝트를 제안한다고 하자.
 온라인 투표는 어디에나 적용할 수 있기 때문에 문제가 브로드하고 제너럴하다.
@@ -108,8 +108,8 @@ Option 1. 프로토타입 구현하는 경우에 포커스를 맞췄지만, Opti
 여기서 참가자는 주최측, 스탭, 대회 참가자, 청중 모두 포함될 수 있다. 
 
 ### Solution
-> 문제의 모든 측면을 해결하려 하지 마라.
-> 중요한 것은 제안하는 솔루션의 차별점을 만들어 내는 것이다. 
+**문제의 모든 측면을 해결하려 하지 마라.<br>
+중요한 것은 제안하는 솔루션의 차별점을 만들어 내는 것이다.**<br> 
 
 온라인 투표 프로젝트로 설명해 보자.
 온라인 투표를 블록체인으로 구현하려면 고민해야 할 사항이 많다.
@@ -127,8 +127,8 @@ Option 1. 프로토타입 구현하는 경우에 포커스를 맞췄지만, Opti
 이렇게 많은 이슈들이 남아있지만, 이걸 다 해결하는게 아니라, 두가지 차별화 포인트에 집중하여 구현하는 것이다.  
 
 ### Why Blockchain
-> 왜 블록체인을 이용해야 하는지 심각하게 질문해야 한다.
-> 만약 블록체인을 이용해야 하는 이유가 억지스럽다면, 적합한 문제가 아닌거다.
+**왜 블록체인을 이용해야 하는지 심각하게 질문해야 한다.<br>
+만약 블록체인을 이용해야 하는 이유가 억지스럽다면, 적합한 문제가 아닌거다.**<br>
 
 블록체인을 적용하는 이유에 대해 예시를 들자면,
 - 여러 party들 간에 신뢰를 높이기 위해
