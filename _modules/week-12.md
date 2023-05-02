@@ -8,7 +8,7 @@ Week 12
 
 <b>Lecture 21</b>
 : Introduction to Web3 games<br>
-  Guest Speaker: <a href="/kaist/speaker/#Johnny Lee">Johnny Lee</a> (General Manager @ Solana GEM (Games, Entertainment, Media))<br>
+  Guest Speaker: TBD<br>
   Abstract: This lecture will address the history of games in blockchain, the concept of GameFi and X2E, and the prospects of web3 games.<br>
   Resources: TBA
   
