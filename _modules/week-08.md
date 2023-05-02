@@ -16,4 +16,4 @@ Week 08
 : Community and Governance in Web3<br>
   Instructor: <a href="/kaist/speaker/#Songyi Lee">Songyi Lee</a> (Core contributor @ Impact collective)<br>
   Abstract: We will cover the new economic system shaped by the community 3.0, explore how and why web3 is set up for the improved governance and organizational design for the future by discussing DAOs, its technology and human interactions.<br>
-  Resources: <a href="/kaist/assets/files/Web3@KAIST-Lecture14.pdf" target="_blank">[slide]</a>, <a href="" target="_blank">[recording]</a><br>
+  Resources: <a href="/kaist/assets/files/Web3@KAIST-Lecture14.pdf" target="_blank">[slide]</a>, <a href="https://youtu.be/rLZRyGKqomw" target="_blank">[recording]</a><br>
