@@ -8,8 +8,8 @@ Week 12
 
 <b>Lecture 21</b>
 : Introduction to Web3 games<br>
-  Guest Speaker: TBD<br>
-  Abstract: This lecture will address the history of games in blockchain, the concept of GameFi and X2E, and the prospects of web3 games.<br>
+  Guest Speaker: Hakhyun Kim (Senior Tech Director @ Solana Korea) & Chaerin Kim (Developer Relations @ Solana Korea)<br>
+  Abstract: What distinguishes traditional Web2 Games from Web3 Games? What problems on traditional games we can solve with web3? In this session, we will delve into the paradigm of Web3 gaming. We’ll be sharing a historical perspective on the evolution of game types based on my real-world experiences in the gaming industry. Following that, we’ll explore the future of ‘Play and Own’. We will have an in-depth look at numerous Web3 games and discuss the perspectives we should adopt when approaching these types of games in the future.<br>
   Resources: TBA
   
 <b>Lecture 22</b>
