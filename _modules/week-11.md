@@ -18,10 +18,10 @@ Week 11
   Abstract: 
   <ul>
     <li>What is the open Metaverse?</li>
-    <li>How to enter the open Metaverse?</li>
+    <li>Why blockchain for Metaverse?</li>
     <li>Who are the brands and communities already in the Metaverse?</li>
     <li>What makes virtual lands valuable in the Metaverse?</li>
-    <li>What job opportunities are available in the Metaverse?</li>
+    <li>What opportunities are available in the Metaverse?</li>
     <li>Where do we go from there and how to get involved?</li>
   </ul>
   Resources: TBA
