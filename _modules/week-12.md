@@ -8,7 +8,7 @@ Week 12
 
 <b>Lecture 21</b>
 : Introduction to Web3 games<br>
-  Guest Speaker: Hakhyun Kim (Senior Tech Director @ Solana Korea) & Chaerin Kim (Developer Relations @ Solana Korea)<br>
+  Guest Speaker: <a href="/kaist/speaker/#Hakhyun Kim">Hakhyun Kim</a> (Senior Tech Director @ Solana Korea) & <a href="/kaist/speaker/#Chaerin Kim">Chaerin Kim</a> (Developer Relations @ Solana Korea)<br>
   Abstract: What distinguishes traditional Web2 Games from Web3 Games? What problems on traditional games we can solve with web3? In this session, we will delve into the paradigm of Web3 gaming. We’ll be sharing a historical perspective on the evolution of game types based on my real-world experiences in the gaming industry. Following that, we’ll explore the future of ‘Play and Own’. We will have an in-depth look at numerous Web3 games and discuss the perspectives we should adopt when approaching these types of games in the future.<br>
   Resources: TBA
   
