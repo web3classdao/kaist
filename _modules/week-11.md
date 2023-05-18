@@ -10,7 +10,7 @@ Week 11
 : Developing Governance<br>
   Instructor: <a href="/kaist/staff/#Jaesun Han (Jason)">Jason Han</a><br>
   Abstract: In this lecture, we will explore several topics related to governance. First I will start with how to set up role-based access control to a smart contract, which is the crucial component for governance by a contract. Then, I'll talk about on-chain and off-chain governance in blockchain and how to implement on-chain governance with OpenZeppelin governance contracts. Lastly, I'll address how to upgrade a smart contract with a proxy pattern.<br>
-  Resources: TBA
+  Resources: <a href="/kaist/assets/files/Web3@KAIST-Lecture19.pdf" target="_blank">[slide]</a>, <a href="" target="_blank">[recording]</a><br>
   
 <b>Lecture 20</b>
 : Building the Open NFT Metaverse<br>
@@ -24,4 +24,4 @@ Week 11
     <li>What opportunities are available in the Metaverse?</li>
     <li>Where do we go from there and how to get involved?</li>
   </ul>
-  Resources: TBA
+  Resources: <a href="/kaist/assets/files/Web3@KAIST-Lecture20.pdf" target="_blank">[slide]</a>, <a href="" target="_blank">[recording]</a><br>
