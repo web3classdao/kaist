@@ -8,15 +8,13 @@ Week 13
 
 <b>Lecture 23</b>
 : Insights from 8 Years of Designing for Web3 Products<br>
-  Moderator: <a href="/kaist/staff/#Jaesun Han (Jason)">Jason Han</a><br>
-  Guest Speakers: Experts from Web3 apps (TBD)<br>
-  Abstract: This invited lecture series will feature experts in the development and operation of Web3 applications, with a particular focus on blockchain and Web3 technologies that address challenges in the community, content, and commerce sectors. Attendees will have the opportunity to learn from these industry leaders and gain valuable insights into the current state and future of Web3 technologies.<br>
+  Guest Speaker: <a href="/kaist/speaker/#Younghwi Cho">Younghwi Cho</a> (Co-Founder and Designer of Hunt Town)<br>
+  Abstract: In this talk, YoungHwi, co-founder and designer of Hunt Town, will share his expertise in Web3 product design to discuss the challenges associated with Web3 products and the insights he has gained. He will provide practical advice for venturing into the Web3 space and highlight important aspects that need to be considered.<br>
   Resources: TBA
   
 <b>Lecture 24</b>
-: Web3 App Case Study in Social Impact and Global Challenges<br>
-  Moderator: <a href="/kaist/staff/#Jaesun Han (Jason)">Jason Han</a><br>
-  Guest Speakers: Experts from Web3 apps (TBD)<br>
-  Abstract: This invited lecture will feature a panel of experts from various applications that are leveraging blockchain and Web3 technologies to address social impact and global challenges. Through their insights and experiences, attendees will gain a deeper understanding of the advantages and disadvantages of utilizing blockchain for social good. The lecture will explore the various ways in which blockchain and Web3 can be applied to tackle some of the world's most challenging problems. By the end of the lecture, attendees will have a better appreciation for the transformative potential of these technologies and how they can be harnessed for positive change.<br>
+: How to Bring AI to Web 3.0<br>
+  Guest Speaker: <a href="/kaist/speaker/#Minhyun Kim">Minhyun Kim</a> (CEO @ Common Computer)<br>
+  Abstract: Expanding the horizons of Web3.0, the lecture delves into AI-driven NFTs, AI Network DAOs, and GPU resource management within containers. The lecture will based on practical experience in building and deploying containerized AI applications on the blockchain, while also creating dynamic NFTs and utilizing DAOs for strategic decision-making. Lastly, the lecture highlights the optimization of GPU resources for large AI computations, and prompt engineering for generative AI.<br>
   Resources: TBA
   
