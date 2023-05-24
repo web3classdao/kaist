@@ -7,7 +7,7 @@ Week 13
   : Online zoom
 
 <b>Lecture 23</b>
-: Web3 App Case Study in 3C (Community-Contents-Commerce)<br>
+: Insights from 8 Years of Designing for Web3 Products<br>
   Moderator: <a href="/kaist/staff/#Jaesun Han (Jason)">Jason Han</a><br>
   Guest Speakers: Experts from Web3 apps (TBD)<br>
   Abstract: This invited lecture series will feature experts in the development and operation of Web3 applications, with a particular focus on blockchain and Web3 technologies that address challenges in the community, content, and commerce sectors. Attendees will have the opportunity to learn from these industry leaders and gain valuable insights into the current state and future of Web3 technologies.<br>
