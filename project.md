@@ -24,16 +24,14 @@ Token symbol: W3K23
 Token decimal: 18
 ```
 * governance token은 다음과 같이 전송됬다.
-** project team: 10
-** other auditors who sent an address: 10
-** mentors and staff: 20
-** professors: 30
+ * project team: 10
+ * other auditors who sent an address: 10
+ * mentors and staff: 20
+ * professors: 30
 
-* SepoliaETH가 없는 경우 Faucet 서비스에서 0.5 SepoliaETH 받는다.
-** https://sepoliafaucet.com/
+* SepoliaETH가 없는 경우 Faucet 서비스에서 0.5 SepoliaETH 받는다. https://sepoliafaucet.com/
 
-* Web3@KAIST Governance 서비스에 접속한다. 
-** https://www.tally.xyz/gov/web3atkaist-2023
+* Web3@KAIST Governance 서비스에 접속한다.  https://www.tally.xyz/gov/web3atkaist-2023
 
 * Metamask로 Sign in 해서 들어간다.
 
