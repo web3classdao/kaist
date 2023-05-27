@@ -66,7 +66,7 @@ Add a custom action.
 
 ```
 Target contract address: 0x7019177D6E40C2C3F461E92De7f3264877e977ee
-Select an ABI or upload yours: ERC-721 (Auto Increment Ids)
+Select an ABI or upload yours: Use the imported ABI
 Contract method: safeMint
 
 Calldatas:
@@ -165,12 +165,9 @@ Description은 template을 참고해서 작성한다.
 Custom action을 추가한다.
 
 ```
-Target contract address: 
-0x7019177D6E40C2C3F461E92De7f3264877e977ee
-Select an ABI or upload yours:
-ERC-721 (Auto Increment Ids)
-Contract method:
-safeMint
+Target contract address: 0x7019177D6E40C2C3F461E92De7f3264877e977ee
+Select an ABI or upload yours: Use the imported ABI
+Contract method: safeMint
 
 Calldatas:
 to: <your metamask address>
