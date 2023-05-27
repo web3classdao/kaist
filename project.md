@@ -5,7 +5,65 @@ nav_order: 6
 description: Final Project | Web3@KAIST 2023
 ---
 
-# Final Project
+# Final Project Submission and Evaluation
+
+## Project peer-evaluation by on-chain governance
+이것은 2023년 봄학기 Web3@KAIST 수업의 프로젝트를 peer evaluation 하기 위한 on-chain governance 이다. Web3@KAIST는 2023년 봄학기에 KAIST에 개설된 수업으로 Web3 programming을 가르치고, 프로젝트로서 Web3 서비스를 만들거나 사업계획을 하는 수업이다. 수강생 150명, 청강생 120명, 멘토 60명, 교수 및 스탭 10여명이 참여해 340명 가량의 수업 커뮤니티를 구성해 community-driven class로 운영하고 있다.
+
+학생들은 최종 프로젝트로서 Web3 app prototype을 제출하거나 Web3 startup proposal을 제출해야 한다. 제출 방식은 여기에 proposal로 등록해야 한다. 이후 커뮤니티 멤버들에 의해 각 proposal에 대해 투표가 진행되고, 투표 기간 이후에 투표 성공하는 경우 Certificate of Achievement SBT가 자동으로 프로젝트팀에게 민팅될 것이다. 커뮤니티 멤버들에게 governance token이 민팅될 것이고, 토큰이 있어야 proposal을 만들 수 있고 투표에 참여할 수 있다. 
+
+이 과정을 통해 학생들이 on-chain governance를 경험해 보고, smart contract에 의해 proposal이 voting을 거쳐 execution까지 진행되는 과정을 이해할 수 있는 기회가 되길 바란다. 
+
+## 모든 멤버의 준비사항
+
+* Metamask에서 네트워크를 Sepolia testnet으로 지정하고 계정으로 들어간다.
+* Metamask에서 Governance token을 import한다.
+```
+Token contract address: 0x7E68DD4A243c2505B142213B8Bf8c091138941A8
+Token symbol: W3K23
+Token decimal: 18
+```
+* governance token은 다음과 같이 전송됬다.
+** project team: 10
+** other auditors who sent an address: 10
+** mentors and staff: 20
+** professors: 30
+
+* SepoliaETH가 없는 경우 Faucet 서비스에서 0.5 SepoliaETH 받는다.
+** https://sepoliafaucet.com/
+
+* Web3@KAIST Governance 서비스에 접속한다. 
+** https://www.tally.xyz/gov/web3atkaist-2023
+
+* Metamask로 Sign in 해서 들어간다.
+
+* Delegate 메뉴를 클릭해서 Myself로 delegate 한다. (Metamask로 tx 승인 필요)
+
+
+--------------------------------
+
+# Final Project Delieverables
+
+You are required to submit three deliverables for each option by **midnight this Tuesday, May 30.** <br>
+All deliverables must be submitted in English.
+
+## Option 1) Web3 app prototype (submit all three)
+1. Running Web3 app URL & Github public repo URL (*If your project isn’t a web app, you don’t need to submit an app URL. Instead, you have to show the screen running the result in the video.*)
+2. Web3 app introduction deck URL (a presentation file under 10 slides)
+3. Youtube video URL to present your Web3 app prototype running and intro deck (within 5 minutes)
+
+## Option 2) Web3 startup proposal (submit all three)
+1. Web3 app whitepaper URL (a word file under 10 pages)
+2. Web3 startup pitch deck URL (a presentation file under 10 slides) (*Refer to [other pitch decks](https://www.hubspot.com/startups/startup-pitch-decks) (especially Dropbox)*)
+3. Youtube video URL to present the pitch deck (within 5 minutes)
+
+For this class, we don't plan to receive and store project deliverables.<br>
+Therefore, all deliverables must be submitted as URL links.<br>
+They will then be viewed and voted on by the class community members during the evaluation period.
+
+------------------
+
+# Final Project Proposal
 
 You are required to submit a 1-page proposal for your final project by **midnight this Friday, April 14.** 
 - The link to submit was provided in last week's email.
