@@ -8,7 +8,7 @@ description: Final Project | Web3@KAIST 2023
 # Final Project Submission and Evaluation
 
 ## Project peer-evaluation by on-chain governance
-이것은 2023년 봄학기 Web3@KAIST 수업의 프로젝트를 peer evaluation 하기 위한 on-chain governance 이다. Web3@KAIST는 2023년 봄학기에 KAIST에 개설된 수업으로 Web3 programming을 가르치고, 프로젝트로서 Web3 서비스를 만들거나 사업계획을 하는 수업이다. 수강생 150명, 청강생 120명, 멘토 60명, 교수 및 스탭 10여명이 참여해 340명 가량의 수업 커뮤니티를 구성해 community-driven class로 운영하고 있다.
+[이것](https://www.tally.xyz/gov/web3atkaist-2023)은 2023년 봄학기 Web3@KAIST 수업의 프로젝트를 peer evaluation 하기 위한 on-chain governance 이다. Web3@KAIST는 2023년 봄학기에 KAIST에 개설된 수업으로 Web3 programming을 가르치고, 프로젝트로서 Web3 서비스를 만들거나 사업계획을 하는 수업이다. 수강생 150명, 청강생 120명, 멘토 60명, 교수 및 스탭 10여명이 참여해 340명 가량의 수업 커뮤니티를 구성해 community-driven class로 운영하고 있다.
 
 학생들은 최종 프로젝트로서 Web3 app prototype을 제출하거나 Web3 startup proposal을 제출해야 한다. 제출 방식은 여기에 proposal로 등록해야 한다. 이후 커뮤니티 멤버들에 의해 각 proposal에 대해 투표가 진행되고, 투표 기간 이후에 투표 성공하는 경우 Certificate of Achievement SBT가 자동으로 프로젝트팀에게 민팅될 것이다. 커뮤니티 멤버들에게 governance token이 민팅될 것이고, 토큰이 있어야 proposal을 만들 수 있고 투표에 참여할 수 있다. 
 
