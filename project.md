@@ -24,10 +24,12 @@ Token symbol: W3K23
 Token decimal: 18
 ```
 * governance token은 다음과 같이 전송됬다.
- * project team: 10
- * other auditors who sent an address: 10
- * mentors and staff: 20
- * professors: 30
+```
+project team: 10
+other auditors who sent an address: 10
+mentors and staff: 20
+professors: 30
+```
 
 * SepoliaETH가 없는 경우 Faucet 서비스에서 0.5 SepoliaETH 받는다. https://sepoliafaucet.com/
 
