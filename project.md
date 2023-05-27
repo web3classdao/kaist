@@ -40,6 +40,72 @@ professors: 30
 * Delegate 메뉴를 클릭해서 Myself로 delegate 한다. (Metamask로 tx 승인 필요)
 
 
+## 프로젝트팀 결과 제출
+
+Project team의 경우 **"Create new proposal"**로 project 제출한다.
+
+### Step 1. 다음 조건을 만족해야 한다.
+```
+Your wallet is connected!
+You are logged in!
+Your wallet is connected to Sepolia!
+You have 10 voting power. You've reached the proposal threshold of 10!  
+```
+
+### Step 2. Name your proposal
+Title은 아래 예시처럼 project title로 한다.
+* [Op1] Peer-evaluation service based on OpenZeppelin Governor and Tally
+* [Op2] VIP membership business based on SBT and dynamic NFT
+
+Description은 template을 참고해서 작성한다.
+
+### Step 3. Add actions
+Custom action을 추가한다.
+
+```
+Target contract address: 
+0x7019177D6E40C2C3F461E92De7f3264877e977ee
+Select an ABI or upload yours:
+ERC-721 (Auto Increment Ids)
+Contract method:
+safeMint
+
+Calldatas:
+to: <your metamask address>
+uri: ipfs://bafkreifvyfwfs2d5ieivw2le42fx47rvjvyvzqn6n6ctzx7hp3h4thqf5y
+```
+
+### Step 4. Preview your proposal
+반드시 최종 "Submit on-chain" 하기 전에 리뷰한다. <br>
+블록체인에 올린 이후에는 수정이나 취소가 불가능하다. 
+
+
+## 모든 멤버에 의한 프로젝트 투표
+
+투표 전에 자신에게(Myself) delegate를 해야 한다.
+delegate 전에 올라 온 proposal에 대해선 투표할 수 없다. 
+따라서 가능한 빨리 delegate 먼저 해 두어야 한다.
+
+투표한다고 토큰이 전송되거나 소비되는게 아니다.
+Voting power를 snapshot으로 찍어 둔 것이기 때문에 모든 proposal에 대해 투표할 수 있다.
+모든 project에 투표 참여할 수 있으니 관심있는 프로젝트를 살펴서 투표해 보길 바란다.
+
+투표는 For, Against, Abstain 세가지 선택할 수 있다. 
+투표 통과하려면, 1) For와 Abstain 투표의 합이 Quorum(10 token)을 넘어야 하고, 2) For 투표수가 Against보다 많아야 한다. 
+투표기간(votingPeriod)은 1주일이며, 그 동안 투표할 수 있다.
+
+자기 프로젝트에게 투표하는건 무효이며, 페널티를 받게 될 것이다.
+투표한 주소가 투명하게 공개되기 때문에 확인할 수 있으니 
+자기 프로젝트에는 절대 투표하지 말자.
+
+투표기간이 지나고, 투표가 통과하면 Execute 단계로 넘어간다.
+Execute는 오로지 교수만 할 수 있게 프로그래밍 되어 있기 때문에 최종적으로 Jason에 의해 Certificate 전송이 이뤄질 것이다.
+
+## 각 옵션별 Top3 프로젝트 선발
+
+투표는 6월4일(일)까지 받고, 6월5일에는 득표수에 따라 Top 3 프로젝트를 선정한다.
+선정된 Top 3 프로젝트는 6월7일 마지막 수업시간에서 프로젝트 발표 기회를 가지게 된다. 
+
 --------------------------------
 
 # Final Project Delieverables
