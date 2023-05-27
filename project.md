@@ -29,8 +29,8 @@ Token decimal: 18
 ```
 project team: 10
 other auditors who sent an address: 10
-mentors and staff: 20
-professors: 30
+mentors: 20
+professors & TA: 30
 ```
 
 * If you don't have SepoliaETH, get 0.5 SepoliaETH from the [Faucet service](https://sepoliafaucet.com/) as soon as possible
@@ -129,8 +129,8 @@ Token decimal: 18
 ```
 project team: 10
 other auditors who sent an address: 10
-mentors and staff: 20
-professors: 30
+mentors: 20
+professors & TA: 30
 ```
 
 * SepoliaETH가 없는 경우 [Faucet 서비스](https://sepoliafaucet.com/)에서 0.5 SepoliaETH 받는다. 
