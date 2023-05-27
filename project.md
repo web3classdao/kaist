@@ -66,7 +66,7 @@ Add a custom action.
 
 ```
 Target contract address: 0x7019177D6E40C2C3F461E92De7f3264877e977ee
-Select an ABI or upload yours: Use the imported ABI
+Use the imported ABI or upload yours: Use the imported ABI
 Contract method: safeMint
 
 Calldatas:
@@ -166,7 +166,7 @@ Custom action을 추가한다.
 
 ```
 Target contract address: 0x7019177D6E40C2C3F461E92De7f3264877e977ee
-Select an ABI or upload yours: Use the imported ABI
+Use the imported ABI or upload yours: Use the imported ABI
 Contract method: safeMint
 
 Calldatas:
