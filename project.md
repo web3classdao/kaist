@@ -5,7 +5,107 @@ nav_order: 6
 description: Final Project | Web3@KAIST 2023
 ---
 
-# Final Project Submission and Evaluation
+# Final Project Submission and Evaluation 
+(After this, Korean version)
+
+## Project peer-evaluation by on-chain governance
+[This](https://www.tally.xyz/gov/web3atkaist-2023) is an on-chain governance for peer-evaluation of projects in the Web3@KAIST class in the spring semester of 2023. Web3@KAIST is a class offered at KAIST in the spring semester of 2023 that teaches Web3 programming and requires students to create a Web3 app or business plan as a project. It is a community-driven class with 150 students, 120 guest speakers, 60 mentors, and 10 professors and staff, forming a class community of about 340 people.
+
+Students are required to submit a Web3 app prototype or Web3 startup proposal as their final project. Submissions must be registered as a proposal [here](https://www.tally.xyz/gov/web3atkaist-2023). Each proposal will then be voted on by community members, and if the proposal is successful after the voting period, Certificate of Achievement SBT will be automatically minted to the project team. Community members will be minted governance tokens, which are required to create proposals and participate in voting. 
+
+We hope this will give students a chance to experience on-chain governance and understand how a proposal can be voted on and executed by a smart contract. 
+
+## All members need to.
+
+* Set the network to Sepolia testnet in the Metamask and log in to your account.
+* Import the governance token from Metamask.
+```
+Token contract address: 0x7E68DD4A243c2505B142213B8Bf8c091138941A8
+Token symbol: W3K23
+Token decimal: 18
+```
+* The governance token is sent as follows.
+```
+project team: 10
+other auditors who sent an address: 10
+mentors and staff: 20
+professors: 30
+```
+
+* If you don't have SepoliaETH, get 0.5 SepoliaETH from the [Faucet service](https://sepoliafaucet.com/) as soon as possible
+
+* Access the [Web3@KAIST Governance](https://www.tally.xyz/gov/web3atkaist-2023).  
+
+* Sign in with Metamask to enter.
+
+* Click the Delegate menu to delegate to Myself. (You need to authorize tx with Metamask)
+
+
+## Submit project team results
+
+For a project team, submit a project with **"Create new proposal"**.
+
+### Step 1. The following conditions must be met.
+```
+Your wallet is connected!
+You are logged in!
+Your wallet is connected to Sepolia!
+You have 10 voting power. You've reached the proposal threshold of 10!  
+```
+
+### Step 2. Name your proposal
+Title should be a project title, like the example below.
+* [Op1] Peer-evaluation service based on OpenZeppelin Governor and Tally
+* [Op2] VIP membership business based on SBT and dynamic NFT
+
+Description is written by referring to [the template](https://www.tally.xyz/gov/web3atkaist-2023/proposal/98238999294651776297713045839806126276403225110271167719935869567308348860962)
+
+### Step 3. Add actions
+Add a custom action.
+
+```
+Target contract address: 0x7019177D6E40C2C3F461E92De7f3264877e977ee
+Select an ABI or upload yours: ERC-721 (Auto Increment Ids)
+Contract method: safeMint
+
+Calldatas:
+to: <your metamask address>
+uri: ipfs://bafkreifvyfwfs2d5ieivw2le42fx47rvjvyvzqn6n6ctzx7hp3h4thqf5y
+```
+
+### Step 4. Preview your proposal
+**Be sure to review before final "Submit on-chain". <br>
+Once submitted to the blockchain, it cannot be edited or canceled.** 
+
+## Vote on the project by all members
+
+You must delegate yourself before voting.
+You can't vote on a proposal that was posted before you delegated. 
+Therefore, you should delegate as soon as possible.
+
+Voting does not send or consume tokens.
+It's a snapshot of your voting power, so you can vote on **multiple proposal**
+You can vote on multiple projects, so please browse through the projects you are interested in and vote.
+
+You can choose to vote For, Against, or Abstain. 
+For a vote to pass, 1) the sum of the For and Abstain votes must exceed the quota (10 tokens), and 2) there must be more For votes than Against. 
+The votingPeriod is one week, during which you can vote.
+
+**Voting for your own project is invalid and will result in a penalty.
+Voting addresses are transparent and can be verified. 
+Never vote for your own project.
+
+After the voting period, if the project passes, it moves to the Execute phase.
+Execute is programmed to be done only by the professor, so the certificate will be sent by Jason at the end.
+
+## Select the Top 3 projects for each option
+
+Voting will be open until Sunday, June 4, and the Top 3 projects will be selected on June 5 based on the number of votes received.
+The Top 3 projects will have the opportunity to present their projects in class on June 7th.
+
+--------------------------------
+
+# 프로젝트 제출과 평가
 
 ## Project peer-evaluation by on-chain governance
 [이것](https://www.tally.xyz/gov/web3atkaist-2023)은 2023년 봄학기 Web3@KAIST 수업의 프로젝트를 peer evaluation 하기 위한 on-chain governance 이다. Web3@KAIST는 2023년 봄학기에 KAIST에 개설된 수업으로 Web3 programming을 가르치고, 프로젝트로서 Web3 서비스를 만들거나 사업계획을 하는 수업이다. 수강생 150명, 청강생 120명, 멘토 60명, 교수 및 스탭 10여명이 참여해 340명 가량의 수업 커뮤니티를 구성해 community-driven class로 운영하고 있다.
@@ -31,9 +131,9 @@ mentors and staff: 20
 professors: 30
 ```
 
-* SepoliaETH가 없는 경우 Faucet 서비스에서 0.5 SepoliaETH 받는다. https://sepoliafaucet.com/
+* SepoliaETH가 없는 경우 [Faucet 서비스](https://sepoliafaucet.com/)에서 0.5 SepoliaETH 받는다. 
 
-* Web3@KAIST Governance 서비스에 접속한다.  https://www.tally.xyz/gov/web3atkaist-2023
+* [Web3@KAIST Governance](https://www.tally.xyz/gov/web3atkaist-2023) 서비스에 접속한다.  
 
 * Metamask로 Sign in 해서 들어간다.
 
@@ -76,8 +176,8 @@ uri: ipfs://bafkreifvyfwfs2d5ieivw2le42fx47rvjvyvzqn6n6ctzx7hp3h4thqf5y
 ```
 
 ### Step 4. Preview your proposal
-반드시 최종 "Submit on-chain" 하기 전에 리뷰한다. <br>
-블록체인에 올린 이후에는 수정이나 취소가 불가능하다. 
+**반드시 최종 "Submit on-chain" 하기 전에 리뷰한다. <br>
+블록체인에 올린 이후에는 수정이나 취소가 불가능하다.** 
 
 
 ## 모든 멤버에 의한 프로젝트 투표
@@ -87,14 +187,14 @@ delegate 전에 올라 온 proposal에 대해선 투표할 수 없다.
 따라서 가능한 빨리 delegate 먼저 해 두어야 한다.
 
 투표한다고 토큰이 전송되거나 소비되는게 아니다.
-Voting power를 snapshot으로 찍어 둔 것이기 때문에 모든 proposal에 대해 투표할 수 있다.
+Voting power를 snapshot으로 찍어 둔 것이기 때문에 **모든 proposal에 대해 투표할 수 있다.**
 모든 project에 투표 참여할 수 있으니 관심있는 프로젝트를 살펴서 투표해 보길 바란다.
 
 투표는 For, Against, Abstain 세가지 선택할 수 있다. 
 투표 통과하려면, 1) For와 Abstain 투표의 합이 Quorum(10 token)을 넘어야 하고, 2) For 투표수가 Against보다 많아야 한다. 
 투표기간(votingPeriod)은 1주일이며, 그 동안 투표할 수 있다.
 
-자기 프로젝트에게 투표하는건 무효이며, 페널티를 받게 될 것이다.
+**자기 프로젝트에게 투표하는건 무효이며, 페널티를 받게 될 것이다.**
 투표한 주소가 투명하게 공개되기 때문에 확인할 수 있으니 
 자기 프로젝트에는 절대 투표하지 말자.
 
@@ -106,6 +206,7 @@ Execute는 오로지 교수만 할 수 있게 프로그래밍 되어 있기 때�
 투표는 6월4일(일)까지 받고, 6월5일에는 득표수에 따라 Top 3 프로젝트를 선정한다.
 선정된 Top 3 프로젝트는 6월7일 마지막 수업시간에서 프로젝트 발표 기회를 가지게 된다. 
 
+--------------------------------
 --------------------------------
 
 # Final Project Delieverables
@@ -127,7 +228,8 @@ For this class, we don't plan to receive and store project deliverables.<br>
 Therefore, all deliverables must be submitted as URL links.<br>
 They will then be viewed and voted on by the class community members during the evaluation period.
 
-------------------
+--------------------------------
+--------------------------------
 
 # Final Project Proposal
 
