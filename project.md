@@ -13,7 +13,8 @@ description: Final Project | Web3@KAIST 2023
 
 Students are required to submit a Web3 app prototype or Web3 startup proposal as their final project. Submissions must be registered as a proposal [here](https://www.tally.xyz/gov/web3atkaist-2023). Each proposal will then be voted on by community members, and if the proposal is successful after the voting period, Certificate of Achievement SBT will be automatically minted to the project team. Community members will be minted governance tokens, which are required to create proposals and participate in voting. 
 
-We hope this will give students a chance to experience on-chain governance and understand how a proposal can be voted on and executed by a smart contract. 
+We hope this will give students a chance to experience on-chain governance and understand how a proposal can be voted on and executed by a smart contract.<br>
+The guide video is available on [Youtube](https://youtu.be/7TpwwoYdh3M)
 
 ## All members need to.
 
@@ -112,7 +113,8 @@ The Top 3 projects will have the opportunity to present their projects in class 
 
 학생들은 최종 프로젝트로서 Web3 app prototype을 제출하거나 Web3 startup proposal을 제출해야 한다. 제출 방식은 여기에 proposal로 등록해야 한다. 이후 커뮤니티 멤버들에 의해 각 proposal에 대해 투표가 진행되고, 투표 기간 이후에 투표 성공하는 경우 Certificate of Achievement SBT가 자동으로 프로젝트팀에게 민팅될 것이다. 커뮤니티 멤버들에게 governance token이 민팅될 것이고, 토큰이 있어야 proposal을 만들 수 있고 투표에 참여할 수 있다. 
 
-이 과정을 통해 학생들이 on-chain governance를 경험해 보고, smart contract에 의해 proposal이 voting을 거쳐 execution까지 진행되는 과정을 이해할 수 있는 기회가 되길 바란다. 
+이 과정을 통해 학생들이 on-chain governance를 경험해 보고, smart contract에 의해 proposal이 voting을 거쳐 execution까지 진행되는 과정을 이해할 수 있는 기회가 되길 바란다.<br>
+아래 과정을 설명한 [Youtube 비디오](https://youtu.be/7TpwwoYdh3M)
 
 ## 모든 멤버의 준비사항
 
