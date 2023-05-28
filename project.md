@@ -18,6 +18,10 @@ The guide video is available on [Youtube](https://youtu.be/7TpwwoYdh3M)
 
 ## All members need to.
 
+* Confirm you get the governance token(ERC20) with Sepolia Etherscan (replace the address to yours)
+```
+https://sepolia.etherscan.io/address/0xFF812c57baaDd014048a642b18423d435dE020EB#tokentxns
+```
 * Set the network to Sepolia testnet in the Metamask and log in to your account.
 * Import the governance token from Metamask.
 ```
@@ -118,6 +122,10 @@ The Top 3 projects will have the opportunity to present their projects in class 
 
 ## 모든 멤버의 준비사항
 
+* governance token(ERC20) 잘 받았는지 Sepolia Etherscan에서 확인 (아래 링크에서 주소 부분에 프로젝트팀 주소로 대체)
+```
+https://sepolia.etherscan.io/address/0xFF812c57baaDd014048a642b18423d435dE020EB#tokentxns
+```
 * Metamask에서 네트워크를 Sepolia testnet으로 지정하고 계정으로 들어간다.
 * Metamask에서 Governance token을 import한다.
 ```
