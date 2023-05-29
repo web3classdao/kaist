@@ -98,7 +98,7 @@ The votingPeriod is one week, during which you can vote.
 
 **Voting for your own project is invalid and will result in a penalty.
 Voting addresses are transparent and can be verified. 
-Never vote for your own project.
+Never vote for your own project.**
 
 After the voting period, if the project passes, it moves to the Execute phase.
 Execute is programmed to be done only by the professor, so the certificate will be sent by Jason at the end.
