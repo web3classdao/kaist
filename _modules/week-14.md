@@ -11,7 +11,7 @@ Week 14
   Moderator: <a href="/kaist/staff/#Jaesun Han (Jason)">Jason Han</a><br>
   Speakers: Final project teams<br>
   Abstract: The six top final projects(3 from a web3 app prototype and 3 from a Web3 startup proposal) will present their results. Attendees and VCs provide feedback on the results. Ryan Kim(Hashed), Kyunghwan Min(Blocore), Robbie Oh(Philosophia Ventures), Brian Yun(Animoca Brands) will attend as a VC<br>
-  Resources: TBA
+  Resources: The presentation slides of top projects were shared in Discord
   
 <b>Lecture 26</b>
 : Closing lecture<br>
