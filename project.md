@@ -5,6 +5,70 @@ nav_order: 6
 description: Final Project | Web3@KAIST 2023
 ---
 
+# Final Project Evaluation Result 
+(After this, Korean version)
+
+During the five-day voting period after the project submission deadline of May 30, 101 people voted to select the final Top 3 projects.
+Detailed voting results are available on [Web3@KAIST on-chain governance(Tally)](https://www.tally.xyz/gov/web3atkaist-2023)
+
+**Option 1 Top 3**
+- Decentralized freelance marketplace (Team Spirit)
+- Support Ethiopia: Smart-Contracts Driven Donation Platform (Protomates)
+- Decentralized coupon management service using NFT (InfoChain)
+
+**Option 2 Top 3**
+- "TokenomX", Intelligent tokenomics management solution (Syncere)
+- Fashion IP Collaboration Platform with 'Double 3riple [ˈtripəl]' (O-SEAN)
+- Next-Generation Online Survey Platform (ReFi KAIST)
+
+The results were determined by 100% community voting.
+For Option 2, there was a tie for third place, and the ReFi KAIST team was selected after discussion among professors.
+
+Since Tally does not compare votes between proposals, we manually counted the votes with the following policy.
+- If a delegate was late and voted with 0 votes, their voting power was reflected.
+- If a delegate voted, but had zero voting power, it was counted as a zero vote.
+- duplicate proposals were combined and counted.
+- Prof. Jason cast 10, 20, and 30 votes by evaluating each project.
+
+The final vote tally and Jason's feedback on the projects can be found in [the dashboard](https://docs.google.com/spreadsheets/d/1Mn4mY9DCpT74mciXpdu0dBrDEAzWu_R179Ae4eCEMb8/edit?usp=sharing)
+
+The selected project teams were given chance to present in the final class on June 7th.
+Four VCs participated and provided helpful feedback on each project.
+Participating VCs: Ryan Kim (Hashed), Kyunghwan Min (Blocore), Robbie Oh (Philosophia Ventures), and Brian Yun (Animoca Brands).
+
+--------------------------------
+
+프로젝트 제출 종료인 5월30일 이후 5일간의 투표 기간 동안 101명이 투표에 참여하여 최종 Top 3프로젝트를 선정했다.
+자세한 투표 결과는 [Web3@KAIST on-chain governance(Tally)](https://www.tally.xyz/gov/web3atkaist-2023)에서 확인 가능하다.
+
+**Option 1 Top 3**
+- Decentralized freelance marketplace (Team Spirit)
+- Support Ethiopia: Smart-Contracts Driven Donation Platform (Protomates)
+- Decentralized coupon management service using NFT (InfoChain)
+
+**Option 2 Top 3**
+- "TokenomX", Intelligent tokenomics management solution (Syncere)
+- Fashion IP Collaboration Platform with ‘Double 3riple [ˈtripəl]’ (O-SEAN)
+- Next-Generation Online Survey Platform (ReFi KAIST)
+
+100% 커뮤니티 투표에 의해 정해진 결과다.
+Option 2의 경우 3위가 tie가 발생했는데, 교수들 논의 결과 ReFi KAIST팀을 선정했다.
+
+Tally가 proposal들간 투표수를 비교해 주지 않기 때문에 아래와 같은 정책으로 수작업으로 집계했다.
+- delegate 늦게 해서 0표로 투표한 경우 보유한 voting power를 반영
+- 투표를 했더라도, voting power가 0인 경우는 0표로 반영
+- proposal을 중복해서 올린 경우 합산하여 반영
+- Prof. Jason은 10, 20, 30표를 차등적으로 투표함
+
+투표 최종 집계와 프로젝트들에 대한 Jason 피드백은 [the dashboard](https://docs.google.com/spreadsheets/d/1Mn4mY9DCpT74mciXpdu0dBrDEAzWu_R179Ae4eCEMb8/edit?usp=sharing) 에서 확인할 수 있다.
+
+선정된 프로젝트팀들은 6월7일 마지막 수업에서 발표시간이 주어졌다.
+4개의 VC에서 참여해서 각 프로젝트에 대해 유익한 피드백을 주었다.
+참여 VC: Ryan Kim(Hashed), Kyunghwan Min(Blocore), Robbie Oh(Philosophia Ventures), Brian Yun(Animoca Brands)
+
+
+--------------------------------
+
 # Final Project Submission and Evaluation 
 (After this, Korean version)
 
