@@ -20,7 +20,7 @@ Contract address: 0xAcd5b0Ad6C6e269Bb117F6Eaa60eA31802ad87AD [Etherscan](https:/
 [Token URI](https://ipfs.io/ipfs/bafkreifvyfwfs2d5ieivw2le42fx47rvjvyvzqn6n6ctzx7hp3h4thqf5y) <br>
 We minted each team member for successfully completing the project.<br>
 These are different from the certificates received by the custom action in Tally, and they are newly minted and official.<br><br>
-<img src="/assets/images/web3kaist-certificates.jpg" width="30%" height="30%" title="Web3@KAIST Certificates NFT" alt="Web3@KAIST Certificates NFT"></img>
+<img src="/assets/images/web3kaist-certificates.jpg" width="20%" height="20%" title="Web3@KAIST Certificates NFT" alt="Web3@KAIST Certificates NFT"></img>
 
 2) Award NFT
 Contract address: 0x48F6F54163635B46162D884dBd73Ef7057dfE425 [Etherscan](https://sepolia.etherscan.io/address/0x48F6F54163635B46162D884dBd73Ef7057dfE425)
@@ -28,9 +28,9 @@ Contract address: 0x48F6F54163635B46162D884dBd73Ef7057dfE425 [Etherscan](https:/
 - Three outstanding Mentors [Token URI](https://ipfs.io/ipfs/bafkreie27g3qracoqht26s45q445zueunod745tjtdnogul3e7gfzvryve)
 - Three outstanding community members [Token URI](https://ipfs.io/ipfs/bafkreihq6g6x4yyytsj4aazcb4dnb5qvb2zcmraywz6vskkzj4uju2njuge)
 
-<img src="/assets/images/web3kaist-award-topproject.jpg" width="30%" height="30%" float="left" title="Web3@KAIST Top Project Award NFT" alt="Web3@KAIST Top Project Award NFT"></img>
-<img src="/assets/images/web3kaist-award-mentor.jpg" width="30%" height="30%" float="left" title="Web3@KAIST Outstanding Mentor Award NFT" alt="Web3@KAIST Outstanding Mentor Award NFT"></img>
-<img src="/assets/images/web3kaist-award-member.jpg" width="30%" height="30%" float="left" title="Web3@KAIST Outstanding Member NFT" alt="Web3@KAIST Outstanding Member Award NFT"></img>
+<img src="/assets/images/web3kaist-award-topproject.jpg" width="20%" height="20%" float="left" title="Web3@KAIST Top Project Award NFT" alt="Web3@KAIST Top Project Award NFT"></img>
+<img src="/assets/images/web3kaist-award-mentor.jpg" width="20%" height="20%" float="left" title="Web3@KAIST Outstanding Mentor Award NFT" alt="Web3@KAIST Outstanding Mentor Award NFT"></img>
+<img src="/assets/images/web3kaist-award-member.jpg" width="20%" height="20%" float="left" title="Web3@KAIST Outstanding Member NFT" alt="Web3@KAIST Outstanding Member Award NFT"></img>
 
 3) Proof of Attendance (POA) NFTs
 Contract address: 0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089 [Etherscan](https://sepolia.etherscan.io/address/0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089) <br>
