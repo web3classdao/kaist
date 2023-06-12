@@ -47,19 +47,6 @@ Minted to all members of the class.
 <img src="/kaist/assets/images/web3kaist-poa-ta.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA TA NFT" alt="Web3@KAIST POA TA NFT">
 <img src="/kaist/assets/images/web3kaist-poa-staff.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Staff NFT" alt="Web3@KAIST POA Staff NFT">
 
-
-<img src="/kaist/assets/images/web3kaist-certificates.jpg" width="20%" height="20%" title="Web3@KAIST Certificates NFT" alt="Web3@KAIST Certificates NFT">
-
-<img src="/kaist/assets/images/web3kaist-award-topproject.jpg" width="20%" height="20%" float="left" title="Web3@KAIST Top Project Award NFT" alt="Web3@KAIST Top Project Award NFT">
-<img src="/kaist/assets/images/web3kaist-award-mentor.jpg" width="20%" height="20%" float="left" title="Web3@KAIST Outstanding Mentor Award NFT" alt="Web3@KAIST Outstanding Mentor Award NFT">
-<img src="/kaist/assets/images/web3kaist-award-member.jpg" width="20%" height="20%" float="left" title="Web3@KAIST Outstanding Member NFT" alt="Web3@KAIST Outstanding Member Award NFT">
-
-<img src="/kaist/assets/images/web3kaist-poa.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA NFT" alt="Web3@KAIST POA NFT">
-<img src="/kaist/assets/images/web3kaist-poa-mentor.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Mentor NFT" alt="Web3@KAIST POA Mentor NFT">
-<img src="/kaist/assets/images/web3kaist-poa-prof.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Professor NFT" alt="Web3@KAIST POA Professor NFT">
-<img src="/kaist/assets/images/web3kaist-poa-ta.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA TA NFT" alt="Web3@KAIST POA TA NFT">
-<img src="/kaist/assets/images/web3kaist-poa-staff.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Staff NFT" alt="Web3@KAIST POA Staff NFT">
-
 # Certificate & POA NFT Minting
 
 이 수업 커뮤니티 멤버들에게는 여러 가지 활동 증명으로서 NFT가 민팅됬다.
