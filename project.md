@@ -41,11 +41,11 @@ Minted to all members of the class.
 - TA [Token URI](https://ipfs.io/ipfs/bafkreigtl7yif3e5z7ryyneahvjpnsjlqvjyko4fplyiq55iwjlahpok4y)
 - Staff [Token URI](https://ipfs.io/ipfs/bafkreidt6qcxu5oad4nle5ggbhkrg6jyhcawz2jymygqqhexeqgmhg2odq)
 
-<img src="/kaist/assets/images/web3kaist-poa.jpg" width="20%" height="20%" float="left" title="Web3@KAIST POA NFT" alt="Web3@KAIST POA NFT">
-<img src="/kaist/assets/images/web3kaist-poa-mentor.jpg" width="20%" height="20%" float="left" title="Web3@KAIST POA Mentor NFT" alt="Web3@KAIST POA Mentor NFT">
-<img src="/kaist/assets/images/web3kaist-poa-prof.jpg" width="20%" height="20%" float="left" title="Web3@KAIST POA Professor NFT" alt="Web3@KAIST POA Professor NFT">
-<img src="/kaist/assets/images/web3kaist-poa-ta.jpg" width="20%" height="20%" float="left" title="Web3@KAIST POA TA NFT" alt="Web3@KAIST POA TA NFT">
-<img src="/kaist/assets/images/web3kaist-poa-staff.jpg" width="20%" height="20%" float="left" title="Web3@KAIST POA Staff NFT" alt="Web3@KAIST POA Staff NFT">
+<img src="/kaist/assets/images/web3kaist-poa.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA NFT" alt="Web3@KAIST POA NFT">
+<img src="/kaist/assets/images/web3kaist-poa-mentor.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Mentor NFT" alt="Web3@KAIST POA Mentor NFT">
+<img src="/kaist/assets/images/web3kaist-poa-prof.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Professor NFT" alt="Web3@KAIST POA Professor NFT">
+<img src="/kaist/assets/images/web3kaist-poa-ta.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA TA NFT" alt="Web3@KAIST POA TA NFT">
+<img src="/kaist/assets/images/web3kaist-poa-staff.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Staff NFT" alt="Web3@KAIST POA Staff NFT">
 
 # Certificate & POA NFT Minting
 
@@ -83,11 +83,11 @@ Contract address: 0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089 [Etherscan](https:/
 - TA [Token URI](https://ipfs.io/ipfs/bafkreigtl7yif3e5z7ryyneahvjpnsjlqvjyko4fplyiq55iwjlahpok4y)
 - Staff [Token URI](https://ipfs.io/ipfs/bafkreidt6qcxu5oad4nle5ggbhkrg6jyhcawz2jymygqqhexeqgmhg2odq)
 
-<img src="/kaist/assets/images/web3kaist-poa.jpg" width="15%" height="15%" float="left" title="Web3@KAIST POA NFT" alt="Web3@KAIST POA NFT">
-<img src="/kaist/assets/images/web3kaist-poa-mentor.jpg" width="15%" height="15%" float="left" title="Web3@KAIST POA Mentor NFT" alt="Web3@KAIST POA Mentor NFT">
-<img src="/kaist/assets/images/web3kaist-poa-prof.jpg" width="15%" height="15%" float="left" title="Web3@KAIST POA Professor NFT" alt="Web3@KAIST POA Professor NFT">
-<img src="/kaist/assets/images/web3kaist-poa-ta.jpg" width="15%" height="15%" float="left" title="Web3@KAIST POA TA NFT" alt="Web3@KAIST POA TA NFT">
-<img src="/kaist/assets/images/web3kaist-poa-staff.jpg" width="15%" height="15%" float="left" title="Web3@KAIST POA Staff NFT" alt="Web3@KAIST POA Staff NFT">
+<img src="/kaist/assets/images/web3kaist-poa.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA NFT" alt="Web3@KAIST POA NFT">
+<img src="/kaist/assets/images/web3kaist-poa-mentor.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Mentor NFT" alt="Web3@KAIST POA Mentor NFT">
+<img src="/kaist/assets/images/web3kaist-poa-prof.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Professor NFT" alt="Web3@KAIST POA Professor NFT">
+<img src="/kaist/assets/images/web3kaist-poa-ta.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA TA NFT" alt="Web3@KAIST POA TA NFT">
+<img src="/kaist/assets/images/web3kaist-poa-staff.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Staff NFT" alt="Web3@KAIST POA Staff NFT">
 
 --------------------------------
 
