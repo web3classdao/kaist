@@ -17,8 +17,8 @@ For different types of NFT contracts, the NFT metadata (Token URI) was minted di
 
 1) Certificate of Achievement NFT
 Contract address: 0xAcd5b0Ad6C6e269Bb117F6Eaa60eA31802ad87AD [Etherscan](https://sepolia.etherscan.io/address/0xAcd5b0Ad6C6e269Bb117F6Eaa60eA31802ad87AD)
-[Token URI](https://ipfs.io/ipfs/bafkreifvyfwfs2d5ieivw2le42fx47rvjvyvzqn6n6ctzx7hp3h4thqf5y)
-We minted each team member for successfully completing the project.
+[Token URI](https://ipfs.io/ipfs/bafkreifvyfwfs2d5ieivw2le42fx47rvjvyvzqn6n6ctzx7hp3h4thqf5y) <br>
+We minted each team member for successfully completing the project.<br>
 These are different from the certificates received by the custom action in Tally, and they are newly minted and official.
 
 2) Award NFT
@@ -48,8 +48,8 @@ Minted to all members of the class.
 
 1) Certificate of Achievement NFT
 Contract address: 0xAcd5b0Ad6C6e269Bb117F6Eaa60eA31802ad87AD [Etherscan](https://sepolia.etherscan.io/address/0xAcd5b0Ad6C6e269Bb117F6Eaa60eA31802ad87AD)
-[Token URI](https://ipfs.io/ipfs/bafkreifvyfwfs2d5ieivw2le42fx47rvjvyvzqn6n6ctzx7hp3h4thqf5y)
-프로젝트를 성공적으로 마친 팀에 대해 각 팀원들에게 민팅했다.
+[Token URI](https://ipfs.io/ipfs/bafkreifvyfwfs2d5ieivw2le42fx47rvjvyvzqn6n6ctzx7hp3h4thqf5y) <br>
+프로젝트를 성공적으로 마친 팀에 대해 각 팀원들에게 민팅했다.<br>
 Tally에서 custom action으로 받은 certificate와 다른 것으로 새롭게 민팅한 것이고 공식적인 Certificate다.
 
 2) Award NFT
