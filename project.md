@@ -26,7 +26,7 @@ These are different from the certificates received by the custom action in Tally
 Contract address: 0x48F6F54163635B46162D884dBd73Ef7057dfE425 [Etherscan](https://sepolia.etherscan.io/address/0x48F6F54163635B46162D884dBd73Ef7057dfE425)
 - Team members of the Top 3 projects [Token URI](https://ipfs.io/ipfs/bafkreihxmf3nrmbvwixxh6gfzfehiewgtp2wkjws64uhklt6xmbh7gdywa)
 - Three outstanding Mentors [Token URI](https://ipfs.io/ipfs/bafkreie27g3qracoqht26s45q445zueunod745tjtdnogul3e7gfzvryve)
-- Three outstanding community members [Token URI](https://ipfs.io/ipfs/bafkreihq6g6x4yyytsj4aazcb4dnb5qvb2zcmraywz6vskkzj4uju2njuge)
+- Three outstanding community members [Token URI](https://ipfs.io/ipfs/bafkreihq6g6x4yytsj4aazcb4dnb5qvb2zcmraywz6vskkzj4uju2njuge)
 
 <img src="/kaist/assets/images/web3kaist-award-topproject.jpg" width="20%" height="20%" float="left" title="Web3@KAIST Top Project Award NFT" alt="Web3@KAIST Top Project Award NFT">
 <img src="/kaist/assets/images/web3kaist-award-mentor.jpg" width="20%" height="20%" float="left" title="Web3@KAIST Outstanding Mentor Award NFT" alt="Web3@KAIST Outstanding Mentor Award NFT">
