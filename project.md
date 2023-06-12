@@ -27,7 +27,7 @@ Contract address: 0x48F6F54163635B46162D884dBd73Ef7057dfE425 [Etherscan](https:/
 - Team members of the Top 3 projects [Token URI](https://ipfs.io/ipfs/bafkreihxmf3nrmbvwixxh6gfzfehiewgtp2wkjws64uhklt6xmbh7gdywa)
 - Three outstanding Mentors [Token URI](https://ipfs.io/ipfs/bafkreie27g3qracoqht26s45q445zueunod745tjtdnogul3e7gfzvryve)
 - Three outstanding community members [Token URI](https://ipfs.io/ipfs/bafkreihq6g6x4yyytsj4aazcb4dnb5qvb2zcmraywz6vskkzj4uju2njuge)
-<br>
+
 <img src="/assets/images/web3kaist-award-topproject.jpg" width="30%" height="30%" float="left" title="Web3@KAIST Top Project Award NFT" alt="Web3@KAIST Top Project Award NFT"></img>
 <img src="/assets/images/web3kaist-award-mentor.jpg" width="30%" height="30%" float="left" title="Web3@KAIST Top Project Award NFT" alt="Web3@KAIST Top Project Award NFT"></img>
 <img src="/assets/images/web3kaist-award-member.jpg" width="30%" height="30%" float="left" title="Web3@KAIST Top Project Award NFT" alt="Web3@KAIST Top Project Award NFT"></img>
