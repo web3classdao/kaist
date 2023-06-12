@@ -28,7 +28,7 @@ Contract address: 0x48F6F54163635B46162D884dBd73Ef7057dfE425 [Etherscan](https:/
 - Three outstanding community members [Token URI](https://ipfs.io/ipfs/bafkreihq6g6x4yyytsj4aazcb4dnb5qvb2zcmraywz6vskkzj4uju2njuge)
 
 3) Proof of Attendance (POA) NFTs
-Contract address: 0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089 [Etherscan](https://sepolia.etherscan.io/address/0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089)
+Contract address: 0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089 [Etherscan](https://sepolia.etherscan.io/address/0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089) <br>
 Minted to all members of the class.
 - Students and auditors [Token URI](https://ipfs.io/ipfs/bafkreibmoycooeboykwsulg3x7vh3dfuyplv3qkzpbsxmmxjvjs33v6gu4)
 - Mentor [Token URI](https://ipfs.io/ipfs/bafkreiepdoa6uhcasrxdxpn3xtkwffuhxfmra3hcygyykhi7oee4ncqapa)
@@ -59,7 +59,7 @@ Contract address: 0x48F6F54163635B46162D884dBd73Ef7057dfE425 [Etherscan](https:/
 - 우수 커뮤니티 멤버 3명 [Token URI](https://ipfs.io/ipfs/bafkreihq6g6x4yytsj4aazcb4dnb5qvb2zcmraywz6vskkzj4uju2njuge)
 
 3) Proof of Attendance(POA) NFT
-Contract address: 0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089 [Etherscan](https://sepolia.etherscan.io/address/0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089)
+Contract address: 0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089 [Etherscan](https://sepolia.etherscan.io/address/0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089) <br>
 수업에 참여한 모든 멤버에게 민팅했습니다.
 - 학생과 청강생 [Token URI](https://ipfs.io/ipfs/bafkreibmoycooeboykwsulg3x7vh3dfuyplv3qkzpbsxmmxjvjs33v6gu4)
 - 멘토 [Token URI](https://ipfs.io/ipfs/bafkreiepdoa6uhcasrxdxpn3xtkwffuhxfmra3hcygyykhi7oee4ncqapa)
