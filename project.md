@@ -19,8 +19,8 @@ For different types of NFT contracts, the NFT metadata (Token URI) was minted di
 Contract address: 0xAcd5b0Ad6C6e269Bb117F6Eaa60eA31802ad87AD [Etherscan](https://sepolia.etherscan.io/address/0xAcd5b0Ad6C6e269Bb117F6Eaa60eA31802ad87AD)
 [Token URI](https://ipfs.io/ipfs/bafkreifvyfwfs2d5ieivw2le42fx47rvjvyvzqn6n6ctzx7hp3h4thqf5y) <br>
 We minted each team member for successfully completing the project.<br>
-These are different from the certificates received by the custom action in Tally, and they are newly minted and official.
-<img src="/assets/images/web3kaist-certificates.jpg" width="30%" height="30%" margin-top="-25px" title="Web3@KAIST Certificates NFT" alt="Web3@KAIST Certificates NFT"></img>
+These are different from the certificates received by the custom action in Tally, and they are newly minted and official.<br><br>
+<img src="/assets/images/web3kaist-certificates.jpg" width="30%" height="30%" title="Web3@KAIST Certificates NFT" alt="Web3@KAIST Certificates NFT"></img>
 
 2) Award NFT
 Contract address: 0x48F6F54163635B46162D884dBd73Ef7057dfE425 [Etherscan](https://sepolia.etherscan.io/address/0x48F6F54163635B46162D884dBd73Ef7057dfE425)
