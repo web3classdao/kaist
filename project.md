@@ -17,24 +17,24 @@ For different types of NFT contracts, the NFT metadata (Token URI) was minted di
 
 1) Certificate of Achievement NFT
 Contract address: 0xAcd5b0Ad6C6e269Bb117F6Eaa60eA31802ad87AD [Etherscan](https://sepolia.etherscan.io/address/0xAcd5b0Ad6C6e269Bb117F6Eaa60eA31802ad87AD)
-[Token URI](ipfs://bafkreifvyfwfs2d5ieivw2le42fx47rvjvyvzqn6n6ctzx7hp3h4thqf5y)
+[Token URI](https://ipfs.io/ipfs/bafkreifvyfwfs2d5ieivw2le42fx47rvjvyvzqn6n6ctzx7hp3h4thqf5y)
 We minted each team member for successfully completing the project.
 These are different from the certificates received by the custom action in Tally, and they are newly minted and official.
 
 2) Award NFT
 Contract address: 0x48F6F54163635B46162D884dBd73Ef7057dfE425 [Etherscan](https://sepolia.etherscan.io/address/0x48F6F54163635B46162D884dBd73Ef7057dfE425)
-- Team members of the Top 3 projects [Token URI]( ipfs://bafkreihxmf3nrmbvwixxh6gfzfehiewgtp2wkjws64uhklt6xmbh7gdywa)
-- Three outstanding Mentors [Token URI]( ipfs://bafkreie27g3qracoqht26s45q445zueunod745tjtdnogul3e7gfzvryve)
-- Three outstanding community members [Token URI]( ipfs://bafkreihq6g6x4yyytsj4aazcb4dnb5qvb2zcmraywz6vskkzj4uju2njuge)
+- Team members of the Top 3 projects [Token URI](https://ipfs.io/ipfs/bafkreihxmf3nrmbvwixxh6gfzfehiewgtp2wkjws64uhklt6xmbh7gdywa)
+- Three outstanding Mentors [Token URI](https://ipfs.io/ipfs/bafkreie27g3qracoqht26s45q445zueunod745tjtdnogul3e7gfzvryve)
+- Three outstanding community members [Token URI](https://ipfs.io/ipfs/bafkreihq6g6x4yyytsj4aazcb4dnb5qvb2zcmraywz6vskkzj4uju2njuge)
 
 3) Proof of Attendance (POA) NFTs
 Contract address: 0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089 [Etherscan](https://sepolia.etherscan.io/address/0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089)
 Minted to all members of the class.
-- Students and auditors [Token URI](ipfs://bafkreibmoycooeboykwsulg3x7vh3dfuyplv3qkzpbsxmmxjvjs33v6gu4)
-- Mentor [Token URI](ipfs://bafkreiepdoa6uhcasrxdxpn3xtkwffuhxfmra3hcygyykhi7oee4ncqapa)
-- Professor [Token URI](ipfs://bafkreieizpwwtr45so7wzafmkuyqqm4to6gajrcaby5jkc2dygtjuj7zfa)
-- TA [Token URI](ipfs://bafkreigtl7yif3e5z7ryyneahvjpnsjlqvjyko4fplyiq55iwjlahpok4y)
-- Staff [Token URI](ipfs://bafkreidt6qcxu5oad4nle5ggbhkrg6jyhcawz2jymygqqhexeqgmhg2odq)
+- Students and auditors [Token URI](https://ipfs.io/ipfs/bafkreibmoycooeboykwsulg3x7vh3dfuyplv3qkzpbsxmmxjvjs33v6gu4)
+- Mentor [Token URI](https://ipfs.io/ipfs/bafkreiepdoa6uhcasrxdxpn3xtkwffuhxfmra3hcygyykhi7oee4ncqapa)
+- Professor [Token URI](https://ipfs.io/ipfs/bafkreieizpwwtr45so7wzafmkuyqqm4to6gajrcaby5jkc2dygtjuj7zfa)
+- TA [Token URI](https://ipfs.io/ipfs/bafkreigtl7yif3e5z7ryyneahvjpnsjlqvjyko4fplyiq55iwjlahpok4y)
+- Staff [Token URI](https://ipfs.io/ipfs/bafkreidt6qcxu5oad4nle5ggbhkrg6jyhcawz2jymygqqhexeqgmhg2odq)
 
 # Certificate & POA NFT Minting
 
@@ -48,24 +48,24 @@ Minted to all members of the class.
 
 1) Certificate of Achievement NFT
 Contract address: 0xAcd5b0Ad6C6e269Bb117F6Eaa60eA31802ad87AD [Etherscan](https://sepolia.etherscan.io/address/0xAcd5b0Ad6C6e269Bb117F6Eaa60eA31802ad87AD)
-[Token URI](ipfs://bafkreifvyfwfs2d5ieivw2le42fx47rvjvyvzqn6n6ctzx7hp3h4thqf5y)
+[Token URI](https://ipfs.io/ipfs/bafkreifvyfwfs2d5ieivw2le42fx47rvjvyvzqn6n6ctzx7hp3h4thqf5y)
 프로젝트를 성공적으로 마친 팀에 대해 각 팀원들에게 민팅했다.
 Tally에서 custom action으로 받은 certificate와 다른 것으로 새롭게 민팅한 것이고 공식적인 Certificate다.
 
 2) Award NFT
 Contract address: 0x48F6F54163635B46162D884dBd73Ef7057dfE425 [Etherscan](https://sepolia.etherscan.io/address/0x48F6F54163635B46162D884dBd73Ef7057dfE425)
-- Top 3 프로젝트의 팀원들 [Token URI]( ipfs://bafkreihxmf3nrmbvwixxh6gfzfehiewgtp2wkjws64uhklt6xmbh7gdywa)
-- 우수 멘토 3명 [Token URI]( ipfs://bafkreie27g3qracoqht26s45q445zueunod745tjtdnogul3e7gfzvryve)
-- 우수 커뮤니티 멤버 3명 [Token URI]( ipfs://bafkreihq6g6x4yytsj4aazcb4dnb5qvb2zcmraywz6vskkzj4uju2njuge)
+- Top 3 프로젝트의 팀원들 [Token URI](https://ipfs.io/ipfs/bafkreihxmf3nrmbvwixxh6gfzfehiewgtp2wkjws64uhklt6xmbh7gdywa)
+- 우수 멘토 3명 [Token URI](https://ipfs.io/ipfs/bafkreie27g3qracoqht26s45q445zueunod745tjtdnogul3e7gfzvryve)
+- 우수 커뮤니티 멤버 3명 [Token URI](https://ipfs.io/ipfs/bafkreihq6g6x4yytsj4aazcb4dnb5qvb2zcmraywz6vskkzj4uju2njuge)
 
 3) Proof of Attendance(POA) NFT
 Contract address: 0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089 [Etherscan](https://sepolia.etherscan.io/address/0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089)
 수업에 참여한 모든 멤버에게 민팅했습니다.
-- 학생과 청강생 [Token URI](ipfs://bafkreibmoycooeboykwsulg3x7vh3dfuyplv3qkzpbsxmmxjvjs33v6gu4)
-- 멘토 [Token URI](ipfs://bafkreiepdoa6uhcasrxdxpn3xtkwffuhxfmra3hcygyykhi7oee4ncqapa)
-- 교수 [Token URI](ipfs://bafkreieizpwwtr45so7wzafmkuyqqm4to6gajrcaby5jkc2dygtjuj7zfa)
-- TA [Token URI](ipfs://bafkreigtl7yif3e5z7ryyneahvjpnsjlqvjyko4fplyiq55iwjlahpok4y)
-- Staff [Token URI](ipfs://bafkreidt6qcxu5oad4nle5ggbhkrg6jyhcawz2jymygqqhexeqgmhg2odq)
+- 학생과 청강생 [Token URI](https://ipfs.io/ipfs/bafkreibmoycooeboykwsulg3x7vh3dfuyplv3qkzpbsxmmxjvjs33v6gu4)
+- 멘토 [Token URI](https://ipfs.io/ipfs/bafkreiepdoa6uhcasrxdxpn3xtkwffuhxfmra3hcygyykhi7oee4ncqapa)
+- 교수 [Token URI](https://ipfs.io/ipfs/bafkreieizpwwtr45so7wzafmkuyqqm4to6gajrcaby5jkc2dygtjuj7zfa)
+- TA [Token URI](https://ipfs.io/ipfs/bafkreigtl7yif3e5z7ryyneahvjpnsjlqvjyko4fplyiq55iwjlahpok4y)
+- Staff [Token URI](https://ipfs.io/ipfs/bafkreidt6qcxu5oad4nle5ggbhkrg6jyhcawz2jymygqqhexeqgmhg2odq)
 
 --------------------------------
 
