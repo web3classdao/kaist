@@ -29,8 +29,8 @@ Contract address: 0x48F6F54163635B46162D884dBd73Ef7057dfE425 [Etherscan](https:/
 - Three outstanding community members [Token URI](https://ipfs.io/ipfs/bafkreihq6g6x4yyytsj4aazcb4dnb5qvb2zcmraywz6vskkzj4uju2njuge)
 
 <img src="/assets/images/web3kaist-award-topproject.jpg" width="30%" height="30%" float="left" title="Web3@KAIST Top Project Award NFT" alt="Web3@KAIST Top Project Award NFT"></img>
-<img src="/assets/images/web3kaist-award-mentor.jpg" width="30%" height="30%" float="left" title="Web3@KAIST Top Project Award NFT" alt="Web3@KAIST Top Project Award NFT"></img>
-<img src="/assets/images/web3kaist-award-member.jpg" width="30%" height="30%" float="left" title="Web3@KAIST Top Project Award NFT" alt="Web3@KAIST Top Project Award NFT"></img>
+<img src="/assets/images/web3kaist-award-mentor.jpg" width="30%" height="30%" float="left" title="Web3@KAIST Outstanding Mentor Award NFT" alt="Web3@KAIST Outstanding Mentor Award NFT"></img>
+<img src="/assets/images/web3kaist-award-member.jpg" width="30%" height="30%" float="left" title="Web3@KAIST Outstanding Member NFT" alt="Web3@KAIST Outstanding Member Award NFT"></img>
 
 3) Proof of Attendance (POA) NFTs
 Contract address: 0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089 [Etherscan](https://sepolia.etherscan.io/address/0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089) <br>
@@ -40,6 +40,12 @@ Minted to all members of the class.
 - Professor [Token URI](https://ipfs.io/ipfs/bafkreieizpwwtr45so7wzafmkuyqqm4to6gajrcaby5jkc2dygtjuj7zfa)
 - TA [Token URI](https://ipfs.io/ipfs/bafkreigtl7yif3e5z7ryyneahvjpnsjlqvjyko4fplyiq55iwjlahpok4y)
 - Staff [Token URI](https://ipfs.io/ipfs/bafkreidt6qcxu5oad4nle5ggbhkrg6jyhcawz2jymygqqhexeqgmhg2odq)
+
+<img src="/assets/images/web3kaist-poa.jpg" width="15%" height="15%" float="left" title="Web3@KAIST POA NFT" alt="Web3@KAIST POA NFT"></img>
+<img src="/assets/images/web3kaist-poa-mentor.jpg" width="15%" height="15%" float="left" title="Web3@KAIST POA Mentor NFT" alt="Web3@KAIST POA Mentor NFT"></img>
+<img src="/assets/images/web3kaist-poa-prof.jpg" width="15%" height="15%" float="left" title="Web3@KAIST POA Professor NFT" alt="Web3@KAIST POA Professor NFT"></img>
+<img src="/assets/images/web3kaist-poa-ta.jpg" width="15%" height="15%" float="left" title="Web3@KAIST POA TA NFT" alt="Web3@KAIST POA TA NFT"></img>
+<img src="/assets/images/web3kaist-poa-staff.jpg" width="15%" height="15%" float="left" title="Web3@KAIST POA Staff NFT" alt="Web3@KAIST POA Staff NFT"></img>
 
 # Certificate & POA NFT Minting
 
